@@ -1,0 +1,501 @@
+,id,formattedAddress,city,state,zipCode,price,latitude,longitude,bedrooms,bathrooms,squareFootage,propertyType,status,listedDate,daysOnMarket
+0,"3233-Eliot-St,-Apt-211,-Denver,-CO-80211","3233 Eliot St, Apt 211, Denver, CO 80211",Denver,CO,80211,1365,39.762531,-105.024109,1,1.0,415.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+1,"19672-E-49th-Ave,-Denver,-CO-80249","19672 E 49th Ave, Denver, CO 80249",Denver,CO,80249,2827,39.785152,-104.760556,3,2.5,1845.0,Single Family,Active,2026-10-15T00:00:00.000Z,1
+2,"1109-N-Marion-St,-Apt-3,-Denver,-CO-80218","1109 N Marion St, Apt 3, Denver, CO 80218",Denver,CO,80218,1070,39.734043,-104.972092,1,1.0,425.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+3,"2920-W-32nd-Ave,-Apt-112,-Denver,-CO-80211","2920 W 32nd Ave, Apt 112, Denver, CO 80211",Denver,CO,80211,1285,39.761635,-105.0242,1,1.0,500.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+4,"2920-W-32nd-Ave,-Apt-314,-Denver,-CO-80211","2920 W 32nd Ave, Apt 314, Denver, CO 80211",Denver,CO,80211,1485,39.761635,-105.0242,1,1.0,520.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+5,"1522-N-Lafayette-St,-Apt-B,-Denver,-CO-80218","1522 N Lafayette St, Apt B, Denver, CO 80218",Denver,CO,80218,990,39.740578,-104.970573,1,1.0,470.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+6,"3616-Tejon-St,-Apt-203,-Denver,-CO-80211","3616 Tejon St, Apt 203, Denver, CO 80211",Denver,CO,80211,1745,39.767223,-105.010826,0,1.0,660.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+7,"1220-35th-Ave,---312,-Denver,-CO-80205","1220 35th Ave, # 312, Denver, CO 80205",Denver,CO,80205,2120,39.765633,-104.972977,2,2.0,1020.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+8,"1211-N-Vine-St,-Apt-405,-Denver,-CO-80206","1211 N Vine St, Apt 405, Denver, CO 80206",Denver,CO,80206,2250,39.735306,-104.962585,2,2.0,920.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+9,"1436-N-Williams-St,-Apt-103,-Denver,-CO-80218","1436 N Williams St, Apt 103, Denver, CO 80218",Denver,CO,80218,1105,39.739124,-104.965652,0,1.0,390.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+10,"1325-N-Garfield-St,-Apt-403,-Denver,-CO-80206","1325 N Garfield St, Apt 403, Denver, CO 80206",Denver,CO,80206,1515,39.737274,-104.944321,1,1.0,625.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+11,"3310-S-Kenton-St,---6304,-Denver,-CO-80014","3310 S Kenton St, # 6304, Denver, CO 80014",Denver,CO,80014,1470,39.658314,-104.858337,1,1.0,689.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+12,"1510-E-9th-Ave,-Apt-101,-Denver,-CO-80218","1510 E 9th Ave, Apt 101, Denver, CO 80218",Denver,CO,80218,1445,39.730263,-104.969063,1,1.0,626.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+13,"1269-N-Logan-St,-Apt-B10,-Denver,-CO-80203","1269 N Logan St, Apt B10, Denver, CO 80203",Denver,CO,80203,1465,39.736374,-104.982674,2,1.0,540.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+14,"1220-35th-Ave,---340,-Denver,-CO-80205","1220 35th Ave, # 340, Denver, CO 80205",Denver,CO,80205,1120,39.765633,-104.972977,0,1.0,300.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+15,"2305-E-Harvard-Ave,-Apt-4,-Denver,-CO-80210","2305 E Harvard Ave, Apt 4, Denver, CO 80210",Denver,CO,80210,1395,39.671391,-104.960258,2,1.0,700.0,Condo,Active,2026-10-15T00:00:00.000Z,1
+16,"1900-S-Acoma-St,-Unit-819,-Denver,-CO-80223","1900 S Acoma St, Unit 819, Denver, CO 80223",Denver,CO,80223,1935,39.681702,-104.98848,1,1.0,674.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+17,"828-N-Broadway,-Apt-520,-Denver,-CO-80203","828 N Broadway, Apt 520, Denver, CO 80203",Denver,CO,80203,1481,39.729519,-104.986984,0,1.0,569.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+18,"1900-S-Acoma-St,-Unit-401,-Denver,-CO-80223","1900 S Acoma St, Unit 401, Denver, CO 80223",Denver,CO,80223,2660,39.681702,-104.98848,2,2.0,1125.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+19,"1391-W-Custer-Pl,-Denver,-CO-80223","1391 W Custer Pl, Denver, CO 80223",Denver,CO,80223,2000,39.706921,-105.005832,2,1.0,759.0,Single Family,Active,2026-10-13T00:00:00.000Z,3
+20,"2570-S-Dayton-Way,-Apt-H203,-Denver,-CO-80231","2570 S Dayton Way, Apt H203, Denver, CO 80231",Denver,CO,80231,1210,39.67123,-104.874069,1,1.0,770.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+21,"4390-N-Tennyson-St,-Apt-206,-Denver,-CO-80212","4390 N Tennyson St, Apt 206, Denver, CO 80212",Denver,CO,80212,1545,39.776402,-105.043694,1,1.0,705.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+22,"1525-Fairfax-St,-Apt-3,-Denver,-CO-80220","1525 Fairfax St, Apt 3, Denver, CO 80220",Denver,CO,80220,1050,39.740688,-104.928986,1,1.0,550.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+23,"828-N-Broadway,-Apt-426,-Denver,-CO-80203","828 N Broadway, Apt 426, Denver, CO 80203",Denver,CO,80203,2562,39.729519,-104.986984,2,2.0,700.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+24,"828-N-Broadway,-Apt-317,-Denver,-CO-80203","828 N Broadway, Apt 317, Denver, CO 80203",Denver,CO,80203,1405,39.729519,-104.986984,0,1.0,569.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+25,"1325-N-Garfield-St,-Apt-115,-Denver,-CO-80206","1325 N Garfield St, Apt 115, Denver, CO 80206",Denver,CO,80206,1395,39.737274,-104.944321,1,1.0,625.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+26,"4390-N-Tennyson-St,-Apt-306,-Denver,-CO-80212","4390 N Tennyson St, Apt 306, Denver, CO 80212",Denver,CO,80212,1545,39.776402,-105.043694,1,1.0,705.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+27,"3860-Tennyson-St,-Apt-204,-Denver,-CO-80212","3860 Tennyson St, Apt 204, Denver, CO 80212",Denver,CO,80212,2010,39.770407,-105.043805,1,1.0,766.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+28,"3500-N-Tennyson-St,---4355,-Denver,-CO-80212","3500 N Tennyson St, # 4355, Denver, CO 80212",Denver,CO,80212,1285,39.765888,-105.043694,1,1.0,530.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+29,"600-And-624-Pennsylvania-St,---624-105,-Denver,-CO-80203","600 And 624 Pennsylvania St, # 624-105, Denver, CO 80203",Denver,CO,80203,1430,39.725834,-104.980759,1,1.0,690.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+30,"137-S-Penn-St,---104,-Denver,-CO-80209","137 S Penn St, # 104, Denver, CO 80209",Denver,CO,80209,1175,39.714027,-104.981865,1,1.0,720.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+31,"119-S-Harrison-St,-Unit-311,-Denver,-CO-80209","119 S Harrison St, Unit 311, Denver, CO 80209",Denver,CO,80209,3360,39.713943,-104.941597,2,2.0,1170.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+32,"1451-1459-Detroit-St,---310,-Denver,-CO-80206","1451-1459 Detroit St, # 310, Denver, CO 80206",Denver,CO,80206,985,39.739445,-104.954346,1,1.0,465.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+33,"5-N-Sherman-St,-Apt-303,-Denver,-CO-80203","5 N Sherman St, Apt 303, Denver, CO 80203",Denver,CO,80203,1225,39.716698,-104.985359,1,1.0,440.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+34,"1522-N-Lafayette-St,-Apt-12,-Denver,-CO-80218","1522 N Lafayette St, Apt 12, Denver, CO 80218",Denver,CO,80218,1310,39.740578,-104.970573,1,1.0,870.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+35,"1586-N-Hooker-St,-Unit-311,-Denver,-CO-80204","1586 N Hooker St, Unit 311, Denver, CO 80204",Denver,CO,80204,1395,39.742401,-105.027863,1,1.0,520.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+36,"1325-N-Corona-St,-Apt-5,-Denver,-CO-80218","1325 N Corona St, Apt 5, Denver, CO 80218",Denver,CO,80218,1350,39.73735,-104.974426,1,1.0,545.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+37,"1020-N-Pennsylvania-St,-Apt-201,-Denver,-CO-80203","1020 N Pennsylvania St, Apt 201, Denver, CO 80203",Denver,CO,80203,1515,39.732708,-104.980659,2,1.0,785.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+38,"1401-N-High-St,-Apt-10,-Denver,-CO-80218","1401 N High St, Apt 10, Denver, CO 80218",Denver,CO,80218,1105,39.73864,-104.965073,0,1.0,420.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+39,"40-N-Ogden-St,-Apt-204,-Denver,-CO-80218","40 N Ogden St, Apt 204, Denver, CO 80218",Denver,CO,80218,1130,39.717213,-104.975494,1,1.0,470.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+40,"4101-E-Louisiana-Ave,-Apt-407,-Denver,-CO-80246","4101 E Louisiana Ave, Apt 407, Denver, CO 80246",Denver,CO,80246,1345,39.693291,-104.939362,0,1.0,453.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+41,"2375-2385-E-Evans-Ave,---11,-Denver,-CO-80210","2375-2385 E Evans Ave, # 11, Denver, CO 80210",Denver,CO,80210,1075,39.678661,-104.95842,1,1.0,530.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+42,"10150-E-Harvard-Ave,---C623,-Denver,-CO-80231","10150 E Harvard Ave, # C623, Denver, CO 80231",Denver,CO,80231,1197,39.670525,-104.870972,1,1.0,702.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+43,"815-E-Ellsworth-Ave,-Apt-105,-Denver,-CO-80209","815 E Ellsworth Ave, Apt 105, Denver, CO 80209",Denver,CO,80209,1725,39.716763,-104.977661,2,1.0,720.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+44,"828-N-Broadway,-Apt-402,-Denver,-CO-80203","828 N Broadway, Apt 402, Denver, CO 80203",Denver,CO,80203,2323,39.729519,-104.986984,2,2.0,1107.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+45,"1264-N-Grant-St,-Apt-B1,-Denver,-CO-80203","1264 N Grant St, Apt B1, Denver, CO 80203",Denver,CO,80203,1130,39.736458,-104.983185,1,1.0,714.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+46,"10-S-Emerson-St,-Apt-305A,-Denver,-CO-80209","10 S Emerson St, Apt 305A, Denver, CO 80209",Denver,CO,80209,1245,39.716351,-104.976608,1,1.0,530.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+47,"764-4610-Cherry-St,---782,-Denver,-CO-80220","764-4610 Cherry St, # 782, Denver, CO 80220",Denver,CO,80220,1390,39.728882,-104.933533,2,1.0,750.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+48,"1900-S-Acoma-St,-Unit-652,-Denver,-CO-80223","1900 S Acoma St, Unit 652, Denver, CO 80223",Denver,CO,80223,1845,39.681702,-104.98848,1,1.0,699.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+49,"835-N-Sherman-St,-Apt-22,-Denver,-CO-80203","835 N Sherman St, Apt 22, Denver, CO 80203",Denver,CO,80203,945,39.729725,-104.985268,0,1.0,350.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+50,"757-N-Grant-St,-Unit-506,-Denver,-CO-80203","757 N Grant St, Unit 506, Denver, CO 80203",Denver,CO,80203,1215,39.728214,-104.983917,0,1.0,458.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+51,"1479-N-Fillmore-St,-Unit-103,-Denver,-CO-80206","1479 N Fillmore St, Unit 103, Denver, CO 80206",Denver,CO,80206,1025,39.739853,-104.953392,0,1.0,384.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+52,"96-S-Clarkson-St,-Apt-8,-Denver,-CO-80209","96 S Clarkson St, Apt 8, Denver, CO 80209",Denver,CO,80209,1440,39.714863,-104.977768,1,1.0,605.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+53,"8330-E-Quincy-Ave,-Apt-B105,-Denver,-CO-80237","8330 E Quincy Ave, Apt B105, Denver, CO 80237",Denver,CO,80237,1621,39.637875,-104.891373,2,2.0,1200.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+54,"49-S-Pearl-St,-Apt-4,-Denver,-CO-80209","49 S Pearl St, Apt 4, Denver, CO 80209",Denver,CO,80209,850,39.715549,-104.980621,0,1.0,350.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+55,"195-N-Jackson-St,-Apt-23,-Denver,-CO-80206","195 N Jackson St, Apt 23, Denver, CO 80206",Denver,CO,80206,1355,39.719181,-104.942833,1,1.0,545.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+56,"1600-S-Albion-St,-Apt-205,-Denver,-CO-80222","1600 S Albion St, Apt 205, Denver, CO 80222",Denver,CO,80222,1125,39.687214,-104.939255,1,1.0,600.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+57,"1531-Stout-St,-Unit-332,-Denver,-CO-80202","1531 Stout St, Unit 332, Denver, CO 80202",Denver,CO,80202,1429,39.745586,-104.993919,2,1.0,671.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+58,"1035-N-Sherman-St,-Apt-306,-Denver,-CO-80203","1035 N Sherman St, Apt 306, Denver, CO 80203",Denver,CO,80203,970,39.73267,-104.985246,0,1.0,425.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+59,"2190-E-11th-Ave,-Apt-706,-Denver,-CO-80206","2190 E 11th Ave, Apt 706, Denver, CO 80206",Denver,CO,80206,4217,39.733295,-104.961288,3,2.0,1331.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+60,"1341-N-Cook-St,-Apt-101,-Denver,-CO-80206","1341 N Cook St, Apt 101, Denver, CO 80206",Denver,CO,80206,1260,39.737484,-104.947586,1,1.0,450.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+61,"90-S-Logan-St,-Apt-229,-Denver,-CO-80209","90 S Logan St, Apt 229, Denver, CO 80209",Denver,CO,80209,1961,39.71492,-104.982529,1,1.0,645.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+62,"1062-N-Pearl-St,-Apt-9,-Denver,-CO-80203","1062 N Pearl St, Apt 9, Denver, CO 80203",Denver,CO,80203,1205,39.733234,-104.979515,1,1.0,570.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+63,"4101-E-Wesley-Ave,---4107-4,-Denver,-CO-80222","4101 E Wesley Ave, # 4107-4, Denver, CO 80222",Denver,CO,80222,4055,39.67371,-104.939316,3,3.0,1797.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+64,"4101-E-Wesley-Ave,---4107-2,-Denver,-CO-80222","4101 E Wesley Ave, # 4107-2, Denver, CO 80222",Denver,CO,80222,4055,39.67371,-104.939316,3,3.0,1797.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+65,"222-N-Logan-St,-Apt-109,-Denver,-CO-80203","222 N Logan St, Apt 109, Denver, CO 80203",Denver,CO,80203,1190,39.719757,-104.9823,1,1.0,480.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+66,"1423-Clayton-St,-Apt-301,-Denver,-CO-80206","1423 Clayton St, Apt 301, Denver, CO 80206",Denver,CO,80206,1015,39.738949,-104.955429,1,1.0,460.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+67,"4101-E-Wesley-Ave,---4107-5,-Denver,-CO-80222","4101 E Wesley Ave, # 4107-5, Denver, CO 80222",Denver,CO,80222,4055,39.67371,-104.939316,3,3.0,1797.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+68,"1137-E-10th-Ave,---2,-Denver,-CO-80218","1137 E 10th Ave, # 2, Denver, CO 80218",Denver,CO,80218,2275,39.732197,-104.973206,2,2.0,1030.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+69,"10-S-Emerson-St,-Apt-205B,-Denver,-CO-80209","10 S Emerson St, Apt 205B, Denver, CO 80209",Denver,CO,80209,1155,39.716351,-104.976608,1,1.0,440.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+70,"137-S-Penn-St,---312,-Denver,-CO-80209","137 S Penn St, # 312, Denver, CO 80209",Denver,CO,80209,1595,39.714027,-104.981865,2,1.0,720.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+71,"21499-E-41st-Pl,-Denver,-CO-80249","21499 E 41st Pl, Denver, CO 80249",Denver,CO,80249,2932,39.774684,-104.73839,4,2.5,1538.0,Single Family,Active,2026-10-13T00:00:00.000Z,3
+72,"1900-S-Acoma-St,-Unit-318,-Denver,-CO-80223","1900 S Acoma St, Unit 318, Denver, CO 80223",Denver,CO,80223,1895,39.681702,-104.98848,1,1.0,808.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+73,"2421-S-Gaylord-St,---2429,-Denver,-CO-80210","2421 S Gaylord St, # 2429, Denver, CO 80210",Denver,CO,80210,1225,39.672348,-104.962158,1,1.0,595.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+74,"9888-E-Vassar-Dr,-Apt-A110,-Denver,-CO-80231","9888 E Vassar Dr, Apt A110, Denver, CO 80231",Denver,CO,80231,1589,39.669277,-104.870956,2,2.0,1128.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+75,"6495-E-Happy-Canyon-Rd,-Denver,-CO-80237","6495 E Happy Canyon Rd, Denver, CO 80237",Denver,CO,80237,1495,39.638493,-104.90583,2,2.0,1220.0,Condo,Active,2026-10-14T00:00:00.000Z,2
+76,"1325-N-Corona-St,-Apt-2,-Denver,-CO-80218","1325 N Corona St, Apt 2, Denver, CO 80218",Denver,CO,80218,1350,39.73735,-104.974426,1,1.0,360.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+77,"4742-N-Tower-Ct,-Denver,-CO-80249","4742 N Tower Ct, Denver, CO 80249",Denver,CO,80249,2790,39.782285,-104.770767,4,3.0,1595.0,Single Family,Active,2026-10-15T00:00:00.000Z,1
+78,"3033-N-Downing-St,-Apt-203,-Denver,-CO-80205","3033 N Downing St, Apt 203, Denver, CO 80205",Denver,CO,80205,1015,39.760059,-104.973572,0,1.0,300.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+79,"21-N-Logan-St,-Apt-7,-Denver,-CO-80203","21 N Logan St, Apt 7, Denver, CO 80203",Denver,CO,80203,1195,39.716957,-104.982941,1,1.0,585.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+80,"4200-W-17th-Ave,-Unit-230,-Denver,-CO-80204","4200 W 17th Ave, Unit 230, Denver, CO 80204",Denver,CO,80204,3550,39.743366,-105.042259,1,1.5,1095.0,Condo,Active,2026-09-03T00:00:00.000Z,43
+81,"1269-N-Logan-St,-Apt-5,-Denver,-CO-80203","1269 N Logan St, Apt 5, Denver, CO 80203",Denver,CO,80203,1120,39.736374,-104.982674,1,1.0,540.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+82,"5300-E-Asbury-Ave,---5386,-Denver,-CO-80222","5300 E Asbury Ave, # 5386, Denver, CO 80222",Denver,CO,80222,1830,39.680157,-104.926018,3,1.0,1285.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+83,"1050-N-Ogden-St,-Apt-01F,-Denver,-CO-80218","1050 N Ogden St, Apt 01F, Denver, CO 80218",Denver,CO,80218,1245,39.733051,-104.97496,1,1.0,630.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+84,"2929-Bruce-Randolph-Ave,-Denver,-CO-80205","2929 Bruce Randolph Ave, Denver, CO 80205",Denver,CO,80205,1247,39.76467,-104.952772,2,1.0,1023.0,Single Family,Active,2026-10-15T00:00:00.000Z,1
+85,"1650-S-Albion-St,-Apt-7,-Denver,-CO-80222","1650 S Albion St, Apt 7, Denver, CO 80222",Denver,CO,80222,1285,39.686668,-104.93914,2,1.0,861.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+86,"2822-W-28th-Ave,-Apt-309,-Denver,-CO-80211","2822 W 28th Ave, Apt 309, Denver, CO 80211",Denver,CO,80211,1675,39.756894,-105.022855,2,1.0,860.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+87,"1235-E-12th-Ave,-Apt-12,-Denver,-CO-80218","1235 E 12th Ave, Apt 12, Denver, CO 80218",Denver,CO,80218,1250,39.735397,-104.972137,1,1.0,600.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+88,"2434-Federal-Blvd,-Apt-313,-Denver,-CO-80211","2434 Federal Blvd, Apt 313, Denver, CO 80211",Denver,CO,80211,1685,39.753136,-105.02459,0,1.0,458.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+89,"1416-N-Pennsylvania-St,-Apt-103,-Denver,-CO-80203","1416 N Pennsylvania St, Apt 103, Denver, CO 80203",Denver,CO,80203,860,39.738831,-104.980713,0,1.0,303.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+90,"633-N-Pearl-St,-Apt-404,-Denver,-CO-80203","633 N Pearl St, Apt 404, Denver, CO 80203",Denver,CO,80203,1230,39.726257,-104.980286,1,1.0,685.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+91,"1626-N-Logan-St,-Apt-315,-Denver,-CO-80203","1626 N Logan St, Apt 315, Denver, CO 80203",Denver,CO,80203,985,39.742229,-104.981972,0,1.0,400.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+92,"130-And-140-S-Ogden-St,---130-207,-Denver,-CO-80209","130 And 140 S Ogden St, # 130-207, Denver, CO 80209",Denver,CO,80209,1300,39.714237,-104.975433,1,1.0,555.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+93,"434-Santa-Fe-Dr,-Unit-202,-Denver,-CO-80204","434 Santa Fe Dr, Unit 202, Denver, CO 80204",Denver,CO,80204,1690,39.723251,-104.998322,1,1.0,706.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+94,"1325-Madison-St,-Apt-4,-Denver,-CO-80206","1325 Madison St, Apt 4, Denver, CO 80206",Denver,CO,80206,1050,39.737286,-104.946442,1,1.0,530.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+95,"116-W-Maple-Ave,-Denver,-CO-80223","116 W Maple Ave, Denver, CO 80223",Denver,CO,80223,2195,39.713652,-104.990507,2,2.0,847.0,Single Family,Active,2026-10-15T00:00:00.000Z,1
+96,"757-N-Grant-St,-Unit-213,-Denver,-CO-80203","757 N Grant St, Unit 213, Denver, CO 80203",Denver,CO,80203,1160,39.728191,-104.984116,0,1.0,458.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+97,"4390-N-Tennyson-St,-Apt-401,-Denver,-CO-80212","4390 N Tennyson St, Apt 401, Denver, CO 80212",Denver,CO,80212,1980,39.776371,-105.043846,2,1.0,950.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+98,"8330-E-Quincy-Ave,-Apt-G310,-Denver,-CO-80237","8330 E Quincy Ave, Apt G310, Denver, CO 80237",Denver,CO,80237,1247,39.637875,-104.891373,1,1.0,700.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+99,"237-N-Pearl-St,---237-109,-Denver,-CO-80203","237 N Pearl St, # 237-109, Denver, CO 80203",Denver,CO,80203,1495,39.720142,-104.980614,1,1.0,660.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+100,"828-N-Broadway,-Apt-523,-Denver,-CO-80203","828 N Broadway, Apt 523, Denver, CO 80203",Denver,CO,80203,2306,39.729519,-104.986984,2,2.0,700.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+101,"1035-N-Sherman-St,-Apt-110,-Denver,-CO-80203","1035 N Sherman St, Apt 110, Denver, CO 80203",Denver,CO,80203,935,39.73267,-104.985246,0,1.0,420.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+102,"30-S-Pearl-St,-Apt-207,-Denver,-CO-80209","30 S Pearl St, Apt 207, Denver, CO 80209",Denver,CO,80209,1480,39.715889,-104.980003,1,1.0,512.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+103,"1550-N-Sherman-St,-Apt-7,-Denver,-CO-80203","1550 N Sherman St, Apt 7, Denver, CO 80203",Denver,CO,80203,785,39.741039,-104.984467,0,1.0,409.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+104,"764-4610-Cherry-St,---788,-Denver,-CO-80220","764-4610 Cherry St, # 788, Denver, CO 80220",Denver,CO,80220,1510,39.728882,-104.933533,2,1.0,800.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+105,"1050-N-Ogden-St,-Apt-03H,-Denver,-CO-80218","1050 N Ogden St, Apt 03H, Denver, CO 80218",Denver,CO,80218,1285,39.733051,-104.97496,1,1.0,635.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+106,"1065-N-Pennsylvania-St,-Apt-201,-Denver,-CO-80203","1065 N Pennsylvania St, Apt 201, Denver, CO 80203",Denver,CO,80203,1105,39.733246,-104.981415,1,1.0,605.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+107,"45-75-S-Washington-St,---45-304,-Denver,-CO-80209","45-75 S Washington St, # 45-304, Denver, CO 80209",Denver,CO,80209,1135,39.715359,-104.979485,1,1.0,520.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+108,"3400-E-17th-Ave,-Apt-304,-Denver,-CO-80206","3400 E 17th Ave, Apt 304, Denver, CO 80206",Denver,CO,80206,1180,39.743538,-104.94735,0,1.0,460.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+109,"2920-W-32nd-Ave,-Apt-208,-Denver,-CO-80211","2920 W 32nd Ave, Apt 208, Denver, CO 80211",Denver,CO,80211,1315,39.761635,-105.0242,1,1.0,515.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+110,"1376-N-Williams-St,-Apt-3,-Denver,-CO-80218","1376 N Williams St, Apt 3, Denver, CO 80218",Denver,CO,80218,1530,39.738224,-104.965683,1,1.0,525.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+111,"8600-E-Colfax-Ave,---124,-Denver,-CO-80220","8600 E Colfax Ave, # 124, Denver, CO 80220",Denver,CO,80220,995,39.739723,-104.887589,0,1.0,250.0,Single Family,Active,2026-10-15T00:00:00.000Z,1
+112,"1224-E-13th-Ave,---1228-3,-Denver,-CO-80218","1224 E 13th Ave, # 1228-3, Denver, CO 80218",Denver,CO,80218,1425,39.736706,-104.97229,1,1.0,625.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+113,"940-950-N-Clarkson-St,---21,-Denver,-CO-80218","940-950 N Clarkson St, # 21, Denver, CO 80218",Denver,CO,80218,1555,39.731304,-104.977264,1,1.0,750.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+114,"2822-W-28th-Ave,-Apt-210,-Denver,-CO-80211","2822 W 28th Ave, Apt 210, Denver, CO 80211",Denver,CO,80211,1485,39.756905,-105.022896,2,1.0,860.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+115,"1416-N-Pennsylvania-St,-Apt-205,-Denver,-CO-80203","1416 N Pennsylvania St, Apt 205, Denver, CO 80203",Denver,CO,80203,1050,39.738832,-104.980705,1,1.0,390.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+116,"828-N-Broadway,-Apt-312,-Denver,-CO-80203","828 N Broadway, Apt 312, Denver, CO 80203",Denver,CO,80203,1405,39.729519,-104.986984,1,1.0,700.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+117,"1-S-Washington-St,-Apt-401,-Denver,-CO-80209","1 S Washington St, Apt 401, Denver, CO 80209",Denver,CO,80209,1990,39.716377,-104.979485,2,2.0,935.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+118,"5561-N-Worchester-St,-Denver,-CO-80239","5561 N Worchester St, Denver, CO 80239",Denver,CO,80239,2750,39.797009,-104.831029,4,2.0,1680.0,Single Family,Active,2026-10-14T00:00:00.000Z,2
+119,"4724-N-Tower-Ct,-Denver,-CO-80249","4724 N Tower Ct, Denver, CO 80249",Denver,CO,80249,2835,39.782079,-104.770768,4,3.0,1595.0,Single Family,Active,2026-10-15T00:00:00.000Z,1
+120,"4400-S-Monaco-St,---6-0627,-Denver,-CO-80237","4400 S Monaco St, # 6-0627, Denver, CO 80237",Denver,CO,80237,1832,39.633301,-104.908714,1,1.0,956.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+121,"4764-N-Tower-Dr,-Denver,-CO-80249","4764 N Tower Dr, Denver, CO 80249",Denver,CO,80249,2870,39.78251,-104.768492,3,2.5,1469.0,Townhouse,Active,2026-10-15T00:00:00.000Z,1
+122,"1422-N-Leyden-St,-Apt-2,-Denver,-CO-80220","1422 N Leyden St, Apt 2, Denver, CO 80220",Denver,CO,80220,1360,39.738735,-104.914764,1,1.0,650.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+123,"119-S-Harrison-St,-Unit-211,-Denver,-CO-80209","119 S Harrison St, Unit 211, Denver, CO 80209",Denver,CO,80209,3190,39.713943,-104.941597,2,2.0,1145.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+124,"350-S-Jackson-St,-Apt-325,-Denver,-CO-80209","350 S Jackson St, Apt 325, Denver, CO 80209",Denver,CO,80209,1698,39.709995,-104.942215,1,1.0,706.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+125,"2946-Glenarm-Pl,-Denver,-CO-80205","2946 Glenarm Pl, Denver, CO 80205",Denver,CO,80205,1847,39.756622,-104.973686,2,1.0,1059.0,Single Family,Active,2026-10-15T00:00:00.000Z,1
+126,"1363-Clayton-St,-Apt-302,-Denver,-CO-80206","1363 Clayton St, Apt 302, Denver, CO 80206",Denver,CO,80206,1135,39.737896,-104.955292,1,1.0,450.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+127,"1210-N-Harrison-St,-Apt-31,-Denver,-CO-80206","1210 N Harrison St, Apt 31, Denver, CO 80206",Denver,CO,80206,1200,39.735516,-104.941559,1,1.0,651.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+128,"1915-N-Sherman-St,-Apt-21,-Denver,-CO-80203","1915 N Sherman St, Apt 21, Denver, CO 80203",Denver,CO,80203,815,39.746574,-104.985245,0,1.0,330.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+129,"1600-S-Albion-St,-Apt-302,-Denver,-CO-80222","1600 S Albion St, Apt 302, Denver, CO 80222",Denver,CO,80222,1240,39.687206,-104.939202,2,1.0,825.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+130,"1740-Leyden-St,-Denver,-CO-80220","1740 Leyden St, Denver, CO 80220",Denver,CO,80220,3200,39.744679,-104.914835,2,1.5,1145.0,Single Family,Active,2026-08-14T00:00:00.000Z,63
+131,"1960-N-Sherman-St,---15,-Denver,-CO-80203","1960 N Sherman St, # 15, Denver, CO 80203",Denver,CO,80203,945,39.747318,-104.984459,0,1.0,565.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+132,"1139-Kearney-St,-Denver,-CO-80220","1139 Kearney St, Denver, CO 80220",Denver,CO,80220,2390,39.734649,-104.917575,2,1.0,1440.0,Single Family,Active,2026-09-25T00:00:00.000Z,21
+133,"702-S-Wolcott-Ct,-Denver,-CO-80219","702 S Wolcott Ct, Denver, CO 80219",Denver,CO,80219,2600,39.704145,-105.049175,3,2.0,1024.0,Single Family,Active,2026-09-16T00:00:00.000Z,30
+134,"2525-S-Dayton-Way,-Apt-1511,-Denver,-CO-80231","2525 S Dayton Way, Apt 1511, Denver, CO 80231",Denver,CO,80231,1400,39.670511,-104.875605,1,1.0,800.0,Condo,Active,2026-10-10T00:00:00.000Z,6
+135,"4899-S-Dudley-St,-Apt-H14,-Littleton,-CO-80123","4899 S Dudley St, Apt H14, Littleton, CO 80123",Littleton,CO,80123,1575,39.626709,-105.095407,1,1.0,629.0,Condo,Active,2026-10-09T00:00:00.000Z,7
+136,"1790-Ulster-St,-Denver,-CO-80220","1790 Ulster St, Denver, CO 80220",Denver,CO,80220,2650,39.745304,-104.893663,5,2.0,2080.0,Single Family,Active,2026-10-14T00:00:00.000Z,2
+137,"1670-S-Franklin-St,-Denver,-CO-80210","1670 S Franklin St, Denver, CO 80210",Denver,CO,80210,2650,39.686194,-104.9684,4,2.0,1600.0,Single Family,Active,2026-10-08T00:00:00.000Z,8
+138,"1356-N-Pearl-St,-Apt-303,-Denver,-CO-80203","1356 N Pearl St, Apt 303, Denver, CO 80203",Denver,CO,80203,2100,39.737805,-104.979576,2,2.0,808.0,Condo,Active,2026-09-30T00:00:00.000Z,16
+139,"1811-S-Quebec-Way,-Apt-85,-Denver,-CO-80231","1811 S Quebec Way, Apt 85, Denver, CO 80231",Denver,CO,80231,1800,39.683032,-104.891631,2,2.5,1327.0,Townhouse,Active,2026-10-02T00:00:00.000Z,14
+140,"4094-N-Malta-St,-Denver,-CO-80249","4094 N Malta St, Denver, CO 80249",Denver,CO,80249,2832,39.772541,-104.741095,3,2.5,1646.0,Single Family,Active,2026-10-12T00:00:00.000Z,4
+141,"1310-N-Franklin-St,-Apt-304,-Denver,-CO-80218","1310 N Franklin St, Apt 304, Denver, CO 80218",Denver,CO,80218,1370,39.737049,-104.968117,1,1.0,680.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+142,"3650-Pontiac-St,-Denver,-CO-80207","3650 Pontiac St, Denver, CO 80207",Denver,CO,80207,3299,39.768378,-104.905515,5,3.0,2539.0,Single Family,Active,2026-10-08T00:00:00.000Z,8
+143,"3247-W-Conejos-Pl,-Denver,-CO-80204","3247 W Conejos Pl, Denver, CO 80204",Denver,CO,80204,2600,39.741778,-105.029657,2,2.0,1024.0,Townhouse,Active,2026-08-30T00:00:00.000Z,47
+144,"2200-S-University-Blvd,-Apt-311,-Denver,-CO-80210","2200 S University Blvd, Apt 311, Denver, CO 80210",Denver,CO,80210,2100,39.676099,-104.958974,2,1.0,982.0,Condo,Active,2026-09-16T00:00:00.000Z,30
+145,"2498-Wolff-St,-Denver,-CO-80212","2498 Wolff St, Denver, CO 80212",Denver,CO,80212,8445,39.753985,-105.04842,5,6.0,4416.0,Single Family,Active,2026-10-13T00:00:00.000Z,3
+146,"1975-N-Grant-St,-Unit-711,-Denver,-CO-80203","1975 N Grant St, Unit 711, Denver, CO 80203",Denver,CO,80203,2350,39.747153,-104.983966,2,2.0,1000.0,Single Family,Active,2026-09-14T00:00:00.000Z,32
+147,"4400-S-Quebec-St,-Apt-B105,-Denver,-CO-80237","4400 S Quebec St, Apt B105, Denver, CO 80237",Denver,CO,80237,1450,39.636471,-104.901221,2,2.0,904.0,Condo,Active,2026-10-13T00:00:00.000Z,3
+148,"668-S-Gilpin-St,-Denver,-CO-80209","668 S Gilpin St, Denver, CO 80209",Denver,CO,80209,5495,39.704447,-104.967178,3,2.0,1800.0,Single Family,Active,2026-10-13T00:00:00.000Z,3
+149,"905-S-Harrison-St,-Denver,-CO-80209","905 S Harrison St, Denver, CO 80209",Denver,CO,80209,5900,39.699977,-104.942244,4,3.5,3682.0,Single Family,Active,2026-09-29T00:00:00.000Z,17
+150,"36-N-Emerson-St,-Apt-205,-Denver,-CO-80218","36 N Emerson St, Apt 205, Denver, CO 80218",Denver,CO,80218,1095,39.717393,-104.976577,1,1.0,450.0,Condo,Active,2026-10-13T00:00:00.000Z,3
+151,"963-S-Columbine-St,-Denver,-CO-80209","963 S Columbine St, Denver, CO 80209",Denver,CO,80209,4000,39.699139,-104.957281,3,2.0,1794.0,Single Family,Active,2026-10-09T00:00:00.000Z,7
+152,"4998-N-Dillon-St,-Denver,-CO-80239","4998 N Dillon St, Denver, CO 80239",Denver,CO,80239,3417,39.784338,-104.819709,4,3.5,2922.0,Single Family,Active,2026-10-13T00:00:00.000Z,3
+153,"1220-N-Emerson-St,-Apt-2,-Denver,-CO-80218","1220 N Emerson St, Apt 2, Denver, CO 80218",Denver,CO,80218,1135,39.735596,-104.976089,1,1.0,668.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+154,"2715-W-25th-Ave,-Unit-33,-Denver,-CO-80211","2715 W 25th Ave, Unit 33, Denver, CO 80211",Denver,CO,80211,2430,39.754154,-105.02124,2,1.0,857.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+155,"2920-W-32nd-Ave,-Apt-305,-Denver,-CO-80211","2920 W 32nd Ave, Apt 305, Denver, CO 80211",Denver,CO,80211,1365,39.761635,-105.0242,1,1.0,515.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+156,"2570-S-Dayton-Way,-Apt-C306,-Denver,-CO-80231","2570 S Dayton Way, Apt C306, Denver, CO 80231",Denver,CO,80231,1463,39.67123,-104.874069,2,2.0,1185.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+157,"2570-S-Dayton-Way,-Apt-C305,-Denver,-CO-80231","2570 S Dayton Way, Apt C305, Denver, CO 80231",Denver,CO,80231,1335,39.67123,-104.874069,2,2.0,1185.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+158,"2375-2385-E-Evans-Ave,---19B,-Denver,-CO-80210","2375-2385 E Evans Ave, # 19B, Denver, CO 80210",Denver,CO,80210,555,39.67865,-104.958549,0,1.0,380.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+159,"2305-E-Harvard-Ave,---7,-Denver,-CO-80210","2305 E Harvard Ave, # 7, Denver, CO 80210",Denver,CO,80210,1139,39.671349,-104.960327,1,1.0,,Condo,Active,2026-10-15T00:00:00.000Z,1
+160,"1726-N-Champa-St,-Apt-5E,-Denver,-CO-80202","1726 N Champa St, Apt 5E, Denver, CO 80202",Denver,CO,80202,1820,39.74765,-104.991966,2,1.0,1014.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+161,"407-455-N-29th-St,---432,-Denver,-CO-80205","407-455 N 29th St, # 432, Denver, CO 80205",Denver,CO,80205,1190,39.755692,-104.974037,1,1.0,620.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+162,"1245-N-Logan-St,-Apt-9,-Denver,-CO-80203","1245 N Logan St, Apt 9, Denver, CO 80203",Denver,CO,80203,1085,39.736027,-104.982666,1,1.0,510.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+163,"3890-W-Colfax-Ave,-Unit-314,-Denver,-CO-80204","3890 W Colfax Ave, Unit 314, Denver, CO 80204",Denver,CO,80204,1120,39.740051,-105.037933,0,1.0,470.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+164,"1285-N-Humboldt-St,---1420-20,-Denver,-CO-80218","1285 N Humboldt St, # 1420-20, Denver, CO 80218",Denver,CO,80218,955,39.736683,-104.969772,1,1.0,605.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+165,"608-E-12th-Ave,-Apt-103,-Denver,-CO-80203","608 E 12th Ave, Apt 103, Denver, CO 80203",Denver,CO,80203,1080,39.734932,-104.979546,1,1.0,495.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+166,"929-N-Marion-St,-Apt-401,-Denver,-CO-80218","929 N Marion St, Apt 401, Denver, CO 80218",Denver,CO,80218,995,39.730976,-104.972038,0,1.0,325.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+167,"9995-E-Harvard-Ave,-Denver,-CO-80231","9995 E Harvard Ave, Denver, CO 80231",Denver,CO,80231,1695,39.673171,-104.873644,2,1.0,721.0,Condo,Active,2026-10-15T00:00:00.000Z,1
+168,"1310-N-Franklin-St,-Apt-205,-Denver,-CO-80218","1310 N Franklin St, Apt 205, Denver, CO 80218",Denver,CO,80218,1435,39.737049,-104.968117,1,1.0,635.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+169,"1200-St-Paul-St,-Apt-5,-Denver,-CO-80206","1200 St Paul St, Apt 5, Denver, CO 80206",Denver,CO,80206,1738,39.735367,-104.950279,2,1.0,830.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+170,"9888-E-Vassar-Dr,-Apt-A208,-Denver,-CO-80231","9888 E Vassar Dr, Apt A208, Denver, CO 80231",Denver,CO,80231,1373,39.669277,-104.870956,1,1.0,818.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+171,"10150-E-Harvard-Ave,---B410,-Denver,-CO-80231","10150 E Harvard Ave, # B410, Denver, CO 80231",Denver,CO,80231,1302,39.670689,-104.870949,1,1.0,800.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+172,"9888-E-Vassar-Dr,-Apt-C206,-Denver,-CO-80231","9888 E Vassar Dr, Apt C206, Denver, CO 80231",Denver,CO,80231,1754,39.669277,-104.870956,2,2.0,1261.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+173,"222-N-Logan-St,-Apt-303,-Denver,-CO-80203","222 N Logan St, Apt 303, Denver, CO 80203",Denver,CO,80203,1055,39.719757,-104.9823,1,1.0,480.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+174,"3500-N-Tennyson-St,---3508,-Denver,-CO-80212","3500 N Tennyson St, # 3508, Denver, CO 80212",Denver,CO,80212,1405,39.765888,-105.043694,1,1.0,545.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+175,"1650-S-Albion-St,-Apt-2,-Denver,-CO-80222","1650 S Albion St, Apt 2, Denver, CO 80222",Denver,CO,80222,1380,39.686668,-104.93914,2,1.0,861.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+176,"10150-E-Harvard-Ave,---A606,-Denver,-CO-80231","10150 E Harvard Ave, # A606, Denver, CO 80231",Denver,CO,80231,1198,39.670525,-104.870972,1,1.0,800.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+177,"601-And-621-S-Lincoln-St,---621-205,-Denver,-CO-80209","601 And 621 S Lincoln St, # 621-205, Denver, CO 80209",Denver,CO,80209,890,39.727047,-104.986511,0,1.0,410.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+178,"1200-N-Pearl-St,-Apt-203,-Denver,-CO-80203","1200 N Pearl St, Apt 203, Denver, CO 80203",Denver,CO,80203,840,39.735359,-104.979538,0,1.0,485.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+179,"2190-E-11th-Ave,-Apt-437,-Denver,-CO-80206","2190 E 11th Ave, Apt 437, Denver, CO 80206",Denver,CO,80206,3077,39.733295,-104.961296,2,2.0,1055.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+180,"1531-Stout-St,-Unit-330,-Denver,-CO-80202","1531 Stout St, Unit 330, Denver, CO 80202",Denver,CO,80202,1479,39.745586,-104.993919,1,1.0,559.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+181,"66-N-Pearl-St,-Apt-405,-Denver,-CO-80203","66 N Pearl St, Apt 405, Denver, CO 80203",Denver,CO,80203,1265,39.717747,-104.980042,1,1.0,620.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+182,"2715-W-25th-Ave,-Unit-23,-Denver,-CO-80211","2715 W 25th Ave, Unit 23, Denver, CO 80211",Denver,CO,80211,2990,39.753914,-105.021156,2,2.0,1110.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+183,"854-N-Emerson-St,-Unit-103,-Denver,-CO-80218","854 N Emerson St, Unit 103, Denver, CO 80218",Denver,CO,80218,1270,39.73011,-104.97599,0,1.0,490.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+184,"1531-Stout-St,-Unit-205,-Denver,-CO-80202","1531 Stout St, Unit 205, Denver, CO 80202",Denver,CO,80202,1429,39.745586,-104.993919,2,1.0,671.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+185,"1335-N-Pearl-St,-Apt-21,-Denver,-CO-80203","1335 N Pearl St, Apt 21, Denver, CO 80203",Denver,CO,80203,1120,39.73745,-104.980225,1,1.0,724.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+186,"1325-N-Corona-St,-Apt-10,-Denver,-CO-80218","1325 N Corona St, Apt 10, Denver, CO 80218",Denver,CO,80218,1385,39.73735,-104.974426,1,1.0,365.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+187,"1000-N-Lincoln-St,-Apt-19,-Denver,-CO-80203","1000 N Lincoln St, Apt 19, Denver, CO 80203",Denver,CO,80203,900,39.732216,-104.985741,0,1.0,300.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+188,"4400-S-Monaco-St,---5-0518,-Denver,-CO-80237","4400 S Monaco St, # 5-0518, Denver, CO 80237",Denver,CO,80237,1685,39.633301,-104.908714,1,1.0,956.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+189,"1401-Fairfax-St,-Denver,-CO-80220","1401 Fairfax St, Denver, CO 80220",Denver,CO,80220,1699,39.738525,-104.928352,1,1.0,900.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+190,"1020-N-Pennsylvania-St,-Apt-306,-Denver,-CO-80203","1020 N Pennsylvania St, Apt 306, Denver, CO 80203",Denver,CO,80203,1270,39.732708,-104.980659,1,1.0,635.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+191,"2190-E-11th-Ave,-Apt-110,-Denver,-CO-80206","2190 E 11th Ave, Apt 110, Denver, CO 80206",Denver,CO,80206,2076,39.733295,-104.961296,1,1.0,673.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+192,"350-S-Jackson-St,-Apt-247,-Denver,-CO-80209","350 S Jackson St, Apt 247, Denver, CO 80209",Denver,CO,80209,1847,39.709995,-104.942215,1,1.0,706.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+193,"1235-N-Logan-St,-Apt-206,-Denver,-CO-80203","1235 N Logan St, Apt 206, Denver, CO 80203",Denver,CO,80203,1085,39.73579,-104.982666,1,1.0,700.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+194,"831-861-N-Cherry-St,---861-15,-Denver,-CO-80220","831-861 N Cherry St, # 861-15, Denver, CO 80220",Denver,CO,80220,1230,39.729862,-104.934151,1,1.0,630.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+195,"8330-E-Quincy-Ave,-Apt-G108,-Denver,-CO-80237","8330 E Quincy Ave, Apt G108, Denver, CO 80237",Denver,CO,80237,1276,39.637875,-104.891373,1,1.0,740.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+196,"1280-N-Humboldt-St,-Apt-27,-Denver,-CO-80218","1280 N Humboldt St, Apt 27, Denver, CO 80218",Denver,CO,80218,1270,39.736637,-104.969177,1,1.0,585.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+197,"4390-N-Tennyson-St,-Apt-503,-Denver,-CO-80212","4390 N Tennyson St, Apt 503, Denver, CO 80212",Denver,CO,80212,2135,39.776367,-105.043755,2,1.0,950.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+198,"1536-N-Williams-St,-Apt-101,-Denver,-CO-80218","1536 N Williams St, Apt 101, Denver, CO 80218",Denver,CO,80218,1137,39.7407,-104.965654,1,1.0,570.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+199,"1418-Adams-St,-Apt-204,-Denver,-CO-80206","1418 Adams St, Apt 204, Denver, CO 80206",Denver,CO,80206,1135,39.738976,-104.948067,1,1.0,450.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+200,"4400-S-Monaco-St,---1-0131,-Denver,-CO-80237","4400 S Monaco St, # 1-0131, Denver, CO 80237",Denver,CO,80237,2192,39.633301,-104.908714,2,2.0,1186.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+201,"1454-Newport-St,-Apt-1,-Denver,-CO-80220","1454 Newport St, Apt 1, Denver, CO 80220",Denver,CO,80220,1100,39.739689,-104.909073,2,1.0,1000.0,Single Family,Active,2026-10-15T00:00:00.000Z,1
+202,"2570-S-Dayton-Way,-Apt-F207,-Denver,-CO-80231","2570 S Dayton Way, Apt F207, Denver, CO 80231",Denver,CO,80231,1261,39.67123,-104.874069,2,2.0,1155.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+203,"1960-N-Sherman-St,-Apt-41,-Denver,-CO-80203","1960 N Sherman St, Apt 41, Denver, CO 80203",Denver,CO,80203,1050,39.747318,-104.984459,1,1.0,565.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+204,"1900-S-Acoma-St,-Unit-542,-Denver,-CO-80223","1900 S Acoma St, Unit 542, Denver, CO 80223",Denver,CO,80223,1560,39.681702,-104.98848,0,1.0,517.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+205,"4400-S-Quebec-St,-Apt-A201,-Denver,-CO-80237","4400 S Quebec St, Apt A201, Denver, CO 80237",Denver,CO,80237,1595,39.636471,-104.901221,2,2.0,906.0,Condo,Active,2026-10-15T00:00:00.000Z,1
+206,"1900-S-Acoma-St,-Unit-659,-Denver,-CO-80223","1900 S Acoma St, Unit 659, Denver, CO 80223",Denver,CO,80223,1650,39.681702,-104.98848,1,1.0,586.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+207,"1900-S-Acoma-St,-Unit-448,-Denver,-CO-80223","1900 S Acoma St, Unit 448, Denver, CO 80223",Denver,CO,80223,1485,39.681702,-104.98848,0,1.0,517.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+208,"8330-E-Quincy-Ave,-Apt-D305,-Denver,-CO-80237","8330 E Quincy Ave, Apt D305, Denver, CO 80237",Denver,CO,80237,1675,39.637875,-104.891373,2,2.0,1200.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+209,"1650-S-Albion-St,-Apt-102,-Denver,-CO-80222","1650 S Albion St, Apt 102, Denver, CO 80222",Denver,CO,80222,1325,39.686668,-104.93914,2,1.0,861.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+210,"1960-N-Sherman-St,---6,-Denver,-CO-80203","1960 N Sherman St, # 6, Denver, CO 80203",Denver,CO,80203,1125,39.747318,-104.984459,1,1.0,,Apartment,Active,2026-10-15T00:00:00.000Z,1
+211,"3100-W-Floyd-Ave,-Apt-13,-Englewood,-CO-80110","3100 W Floyd Ave, Apt 13, Englewood, CO 80110",Englewood,CO,80110,1215,39.657183,-105.027641,2,1.0,,Apartment,Active,2026-10-15T00:00:00.000Z,1
+212,"1170-N-Corona-St,-Apt-3,-Denver,-CO-80218","1170 N Corona St, Apt 3, Denver, CO 80218",Denver,CO,80218,1085,39.73497,-104.973846,0,1.0,275.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+213,"1575-N-Lafayette-St,---29,-Denver,-CO-80218","1575 N Lafayette St, # 29, Denver, CO 80218",Denver,CO,80218,975,39.741459,-104.971069,1,1.0,600.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+214,"1350-N-Sherman-St,-Apt-318,-Denver,-CO-80203","1350 N Sherman St, Apt 318, Denver, CO 80203",Denver,CO,80203,1070,39.737885,-104.984489,0,1.0,407.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+215,"1530-N-Detroit-St,-Apt-305,-Denver,-CO-80206","1530 N Detroit St, Apt 305, Denver, CO 80206",Denver,CO,80206,1190,39.740788,-104.954529,0,1.0,573.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+216,"3100-W-Floyd-Ave,-Apt-17,-Englewood,-CO-80110","3100 W Floyd Ave, Apt 17, Englewood, CO 80110",Englewood,CO,80110,1215,39.657183,-105.027641,2,1.0,,Apartment,Active,2026-10-15T00:00:00.000Z,1
+217,"1269-N-Logan-St,-Apt-1,-Denver,-CO-80203","1269 N Logan St, Apt 1, Denver, CO 80203",Denver,CO,80203,1140,39.736374,-104.982674,1,1.0,561.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+218,"3310-S-Kenton-St,---3314,-Denver,-CO-80014","3310 S Kenton St, # 3314, Denver, CO 80014",Denver,CO,80014,1505,39.658314,-104.858337,1,1.0,742.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+219,"1350-N-Sherman-St,-Apt-208,-Denver,-CO-80203","1350 N Sherman St, Apt 208, Denver, CO 80203",Denver,CO,80203,980,39.737885,-104.984489,0,1.0,407.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+220,"1015-N-Sherman-St,-Apt-105,-Denver,-CO-80203","1015 N Sherman St, Apt 105, Denver, CO 80203",Denver,CO,80203,825,39.732395,-104.985249,0,1.0,295.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+221,"636-648-N-Pearl-St,---648-305,-Denver,-CO-80203","636-648 N Pearl St, # 648-305, Denver, CO 80203",Denver,CO,80203,1090,39.726475,-104.979736,1,1.0,586.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+222,"1531-Stout-St,-Unit-411,-Denver,-CO-80202","1531 Stout St, Unit 411, Denver, CO 80202",Denver,CO,80202,1399,39.745586,-104.993919,2,1.0,671.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+223,"119-S-Harrison-St,-Unit-203,-Denver,-CO-80209","119 S Harrison St, Unit 203, Denver, CO 80209",Denver,CO,80209,3015,39.714077,-104.941696,2,2.0,1435.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+224,"1065-N-Pennsylvania-St,-Apt-104,-Denver,-CO-80203","1065 N Pennsylvania St, Apt 104, Denver, CO 80203",Denver,CO,80203,1500,39.733246,-104.981415,2,1.0,780.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+225,"1335-N-Pearl-St,-Apt-38,-Denver,-CO-80203","1335 N Pearl St, Apt 38, Denver, CO 80203",Denver,CO,80203,1085,39.73745,-104.980225,1,1.0,707.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+226,"475-501-N-Garfield-St,---475-209,-Denver,-CO-80206","475-501 N Garfield St, # 475-209, Denver, CO 80206",Denver,CO,80206,1250,39.723923,-104.944099,1,1.0,695.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+227,"20-30-S-Washington-St,---212,-Denver,-CO-80209","20-30 S Washington St, # 212, Denver, CO 80209",Denver,CO,80209,1350,39.679787,-104.979103,1,1.0,450.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+228,"1530-Krameria-St,-Apt-202,-Denver,-CO-80220","1530 Krameria St, Apt 202, Denver, CO 80220",Denver,CO,80220,1449,39.740803,-104.915962,2,1.0,,Apartment,Active,2026-10-15T00:00:00.000Z,1
+229,"4101-E-Wesley-Ave,---4105-2,-Denver,-CO-80222","4101 E Wesley Ave, # 4105-2, Denver, CO 80222",Denver,CO,80222,3930,39.67371,-104.939316,3,3.0,1797.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+230,"3405-W-32nd-Ave,-Apt-808,-Denver,-CO-80211","3405 W 32nd Ave, Apt 808, Denver, CO 80211",Denver,CO,80211,1545,39.762348,-105.032684,1,1.0,590.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+231,"1301-E-33rd-Ave,-Apt-303,-Denver,-CO-80205","1301 E 33rd Ave, Apt 303, Denver, CO 80205",Denver,CO,80205,1575,39.763489,-104.971748,2,1.0,700.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+232,"1225-1235-E-9th-Ave,---12,-Denver,-CO-80218","1225-1235 E 9th Ave, # 12, Denver, CO 80218",Denver,CO,80218,1850,39.73064,-104.972115,2,1.0,705.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+233,"1586-N-Hooker-St,-Unit-305,-Denver,-CO-80204","1586 N Hooker St, Unit 305, Denver, CO 80204",Denver,CO,80204,1370,39.742401,-105.028091,1,1.0,520.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+234,"1900-S-Acoma-St,-Unit-712,-Denver,-CO-80223","1900 S Acoma St, Unit 712, Denver, CO 80223",Denver,CO,80223,1400,39.681702,-104.98848,0,1.0,517.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+235,"5207-E-Exposition-Ave,-Apt-101,-Denver,-CO-80246","5207 E Exposition Ave, Apt 101, Denver, CO 80246",Denver,CO,80246,1195,39.704216,-104.926743,2,1.0,750.0,Apartment,Active,2026-10-09T00:00:00.000Z,7
+236,"4400-S-Monaco-St,-Apt-111114,-Denver,-CO-80237","4400 S Monaco St, Apt 111114, Denver, CO 80237",Denver,CO,80237,1772,39.633564,-104.909782,1,1.0,796.0,Apartment,Active,2026-10-10T00:00:00.000Z,6
+237,"350-S-Jackson-St,-Apt-353,-Denver,-CO-80209","350 S Jackson St, Apt 353, Denver, CO 80209",Denver,CO,80209,2857,39.709995,-104.942215,2,2.0,1234.0,Apartment,Active,2026-10-10T00:00:00.000Z,6
+238,"1201-Columbine-St,-Apt-205,-Denver,-CO-80206","1201 Columbine St, Apt 205, Denver, CO 80206",Denver,CO,80206,1245,39.735462,-104.957787,1,1.0,490.0,Apartment,Active,2026-10-14T00:00:00.000Z,2
+239,"5217-E-Martin-Luther-King-Jr-Blvd,-Denver,-CO-80207","5217 E Martin Luther King Jr Blvd, Denver, CO 80207",Denver,CO,80207,2550,39.76223,-104.926985,3,2.0,1278.0,Single Family,Active,2026-10-06T00:00:00.000Z,10
+240,"2405-W-39th-Ave,-Denver,-CO-80211","2405 W 39th Ave, Denver, CO 80211",Denver,CO,80211,2600,39.770646,-105.016277,1,1.0,596.0,Townhouse,Active,2026-10-14T00:00:00.000Z,2
+241,"19290-E-59th-Ave,-Unit-704,-Denver,-CO-80249","19290 E 59th Ave, Unit 704, Denver, CO 80249",Denver,CO,80249,3299,39.803504,-104.763226,3,2.5,1853.0,Townhouse,Active,2026-10-14T00:00:00.000Z,2
+242,"1550-N-Sherman-St,-Apt-207,-Denver,-CO-80203","1550 N Sherman St, Apt 207, Denver, CO 80203",Denver,CO,80203,860,39.741039,-104.984467,0,1.0,409.0,Apartment,Active,2026-10-14T00:00:00.000Z,2
+243,"1463L-Dahlia-St,-Unit-2,-Denver,-CO-80220","1463L Dahlia St, Unit 2, Denver, CO 80220",Denver,CO,80220,2495,39.739555,-104.931747,3,2.0,1768.0,Single Family,Active,2026-10-09T00:00:00.000Z,7
+244,"2570-S-Dayton-Way,-Apt-H106,-Denver,-CO-80231","2570 S Dayton Way, Apt H106, Denver, CO 80231",Denver,CO,80231,1387,39.67123,-104.874069,2,2.0,1120.0,Apartment,Active,2026-10-14T00:00:00.000Z,2
+245,"1320-N-Garfield-St,-Apt-204,-Denver,-CO-80206","1320 N Garfield St, Apt 204, Denver, CO 80206",Denver,CO,80206,1460,39.737171,-104.943687,2,1.0,847.0,Apartment,Active,2026-10-14T00:00:00.000Z,2
+246,"1575-N-Lafayette-St,---3,-Denver,-CO-80218","1575 N Lafayette St, # 3, Denver, CO 80218",Denver,CO,80218,970,39.741459,-104.971069,1,1.0,600.0,Apartment,Active,2026-10-14T00:00:00.000Z,2
+247,"4767-Shoshone-St,-Denver,-CO-80211","4767 Shoshone St, Denver, CO 80211",Denver,CO,80211,2250,39.782911,-105.009919,1,1.5,940.0,Townhouse,Active,2026-10-06T00:00:00.000Z,10
+248,"3890-W-Colfax-Ave,-Unit-303,-Denver,-CO-80204","3890 W Colfax Ave, Unit 303, Denver, CO 80204",Denver,CO,80204,1090,39.740101,-105.037827,0,1.0,455.0,Apartment,Active,2026-10-14T00:00:00.000Z,2
+249,"3900-5-W-24th-Ave,-Denver,-CO-80212","3900.5 W 24th Ave, Denver, CO 80212",Denver,CO,80212,1356,39.751976,-105.038353,3,1.0,875.0,Single Family,Active,2026-08-13T00:00:00.000Z,64
+250,"1000-N-Monaco-Street-Pkwy,-Denver,-CO-80220","1000 N Monaco Street Pkwy, Denver, CO 80220",Denver,CO,80220,5400,39.731869,-104.912,5,3.5,3462.0,Single Family,Active,2026-09-14T00:00:00.000Z,32
+251,"1316-Ivanhoe-St,---1,-Denver,-CO-80220","1316 Ivanhoe St, # 1, Denver, CO 80220",Denver,CO,80220,2200,39.737175,-104.921188,2,1.0,1362.0,Single Family,Active,2026-10-14T00:00:00.000Z,2
+252,"90-S-Logan-St,-Apt-103,-Denver,-CO-80209","90 S Logan St, Apt 103, Denver, CO 80209",Denver,CO,80209,2836,39.715004,-104.982529,2,2.0,950.0,Apartment,Active,2026-10-14T00:00:00.000Z,2
+253,"350-S-Jackson-St,-Apt-24,-Denver,-CO-80209","350 S Jackson St, Apt 24, Denver, CO 80209",Denver,CO,80209,1428,39.709995,-104.942215,0,1.0,601.0,Apartment,Active,2026-10-02T00:00:00.000Z,14
+254,"2105-2155-Buchtel-Blvd-S,---B204,-Denver,-CO-80210","2105-2155 Buchtel Blvd S, # B204, Denver, CO 80210",Denver,CO,80210,1220,39.683929,-104.962791,1,1.0,630.0,Apartment,Active,2026-10-14T00:00:00.000Z,2
+255,"1335-N-Pearl-St,-Apt-36,-Denver,-CO-80203","1335 N Pearl St, Apt 36, Denver, CO 80203",Denver,CO,80203,1180,39.73745,-104.980225,1,1.0,727.0,Apartment,Active,2026-10-14T00:00:00.000Z,2
+256,"3310-S-Kenton-St,---6203,-Denver,-CO-80014","3310 S Kenton St, # 6203, Denver, CO 80014",Denver,CO,80014,1505,39.658314,-104.858337,1,1.0,742.0,Apartment,Active,2026-10-02T00:00:00.000Z,14
+257,"101-N-Grant-St,-Unit-1006,-Denver,-CO-80203","101 N Grant St, Unit 1006, Denver, CO 80203",Denver,CO,80203,1220,39.718529,-104.984123,0,1.0,420.0,Apartment,Active,2026-08-30T00:00:00.000Z,47
+258,"820-N-Sherman-St,-Apt-206,-Denver,-CO-80203","820 N Sherman St, Apt 206, Denver, CO 80203",Denver,CO,80203,1295,39.729462,-104.984497,0,1.0,520.0,Apartment,Active,2026-08-30T00:00:00.000Z,47
+259,"2105-2155-Buchtel-Blvd-S,---A406,-Denver,-CO-80210","2105-2155 Buchtel Blvd S, # A406, Denver, CO 80210",Denver,CO,80210,1240,39.683929,-104.962791,1,1.0,630.0,Apartment,Active,2026-10-14T00:00:00.000Z,2
+260,"2434-Federal-Blvd,-Apt-211,-Denver,-CO-80211","2434 Federal Blvd, Apt 211, Denver, CO 80211",Denver,CO,80211,1596,39.753136,-105.024673,0,1.0,326.0,Apartment,Active,2026-09-26T00:00:00.000Z,20
+261,"4400-S-Monaco-St,-Apt-101034,-Denver,-CO-80237","4400 S Monaco St, Apt 101034, Denver, CO 80237",Denver,CO,80237,2007,39.633564,-104.909782,1,1.0,979.0,Apartment,Active,2026-10-10T00:00:00.000Z,6
+262,"4400-S-Monaco-St,---3-0321,-Denver,-CO-80237","4400 S Monaco St, # 3-0321, Denver, CO 80237",Denver,CO,80237,1822,39.633564,-104.909782,1,1.0,956.0,Apartment,Active,2026-10-10T00:00:00.000Z,6
+263,"770-N-Albion-St,-Apt-203,-Denver,-CO-80220","770 N Albion St, Apt 203, Denver, CO 80220",Denver,CO,80220,1105,39.728745,-104.93914,1,1.0,600.0,Apartment,Active,2026-10-14T00:00:00.000Z,2
+264,"525-Jackson-St,-Denver,-CO-80206","525 Jackson St, Denver, CO 80206",Denver,CO,80206,1540,39.72448,-104.942856,1,1.0,600.0,Condo,Active,2026-10-09T00:00:00.000Z,7
+265,"815-N-Sherman-St,-Apt-4,-Denver,-CO-80203","815 N Sherman St, Apt 4, Denver, CO 80203",Denver,CO,80203,1045,39.729401,-104.985237,0,1.0,250.0,Apartment,Active,2026-10-14T00:00:00.000Z,2
+266,"350-S-Jackson-St,-Apt-436,-Denver,-CO-80209","350 S Jackson St, Apt 436, Denver, CO 80209",Denver,CO,80209,1492,39.709995,-104.942215,1,1.0,647.0,Apartment,Active,2026-10-10T00:00:00.000Z,6
+267,"3310-S-Kenton-St,---3313,-Denver,-CO-80014","3310 S Kenton St, # 3313, Denver, CO 80014",Denver,CO,80014,1470,39.658314,-104.858337,1,1.0,689.0,Apartment,Active,2026-10-02T00:00:00.000Z,14
+268,"350-S-Jackson-St,-Apt-408,-Denver,-CO-80209","350 S Jackson St, Apt 408, Denver, CO 80209",Denver,CO,80209,2027,39.709995,-104.942215,1,1.0,770.0,Apartment,Active,2026-10-02T00:00:00.000Z,14
+269,"1211-N-Vine-St,-Apt-806,-Denver,-CO-80206","1211 N Vine St, Apt 806, Denver, CO 80206",Denver,CO,80206,1765,39.735306,-104.962585,1,1.0,595.0,Apartment,Active,2026-10-14T00:00:00.000Z,2
+270,"1280-Albion-St,-Apt-33,-Denver,-CO-80220","1280 Albion St, Apt 33, Denver, CO 80220",Denver,CO,80220,1300,39.736141,-104.939247,1,1.0,570.0,Apartment,Active,2026-10-14T00:00:00.000Z,2
+271,"2858-N-Hazel-Ct,-Denver,-CO-80211","2858 N Hazel Ct, Denver, CO 80211",Denver,CO,80211,3100,39.758022,-105.027252,2,1.5,1165.0,Townhouse,Active,2026-10-08T00:00:00.000Z,8
+272,"1650-S-Albion-St,-Apt-205,-Denver,-CO-80222","1650 S Albion St, Apt 205, Denver, CO 80222",Denver,CO,80222,985,39.686668,-104.93914,0,1.0,473.0,Apartment,Active,2026-10-14T00:00:00.000Z,2
+273,"4618-W-35th-Ave,-Denver,-CO-80212","4618 W 35th Ave, Denver, CO 80212",Denver,CO,80212,3300,39.765478,-105.047239,4,2.0,1945.0,Single Family,Active,2026-10-14T00:00:00.000Z,2
+274,"2568-S-Delaware-St,---371,-Denver,-CO-80223","2568 S Delaware St, # 371, Denver, CO 80223",Denver,CO,80223,2826,39.669933,-104.991974,3,3.0,1248.0,Townhouse,Active,2026-10-12T00:00:00.000Z,4
+275,"350-S-Jackson-St,-Apt-151,-Denver,-CO-80209","350 S Jackson St, Apt 151, Denver, CO 80209",Denver,CO,80209,2731,39.709995,-104.942215,2,2.0,1038.0,Apartment,Active,2026-10-10T00:00:00.000Z,6
+276,"2407-Federal-Blvd,-Denver,-CO-80211","2407 Federal Blvd, Denver, CO 80211",Denver,CO,80211,2200,39.752635,-105.02562,3,2.0,1800.0,Single Family,Active,2026-09-14T00:00:00.000Z,32
+277,"1995-S-Sherman-St,-Denver,-CO-80210","1995 S Sherman St, Denver, CO 80210",Denver,CO,80210,2850,39.680476,-104.985508,2,1.0,1438.0,Single Family,Active,2026-10-10T00:00:00.000Z,6
+278,"4444-W-13th-Ave,-Apt-24,-Denver,-CO-80204","4444 W 13th Ave, Apt 24, Denver, CO 80204",Denver,CO,80204,1245,39.736217,-105.045036,2,1.0,740.0,Apartment,Active,2026-10-02T00:00:00.000Z,14
+279,"407-455-N-29th-St,---430,-Denver,-CO-80205","407-455 N 29th St, # 430, Denver, CO 80205",Denver,CO,80205,1445,39.755692,-104.974037,2,1.0,576.0,Apartment,Active,2026-10-14T00:00:00.000Z,2
+280,"1555-California-St,-Ste-301,-Denver,-CO-80202","1555 California St, Ste 301, Denver, CO 80202",Denver,CO,80202,1600,39.744823,-104.993126,1,1.0,780.0,Apartment,Active,2026-10-06T00:00:00.000Z,10
+281,"1376-N-Williams-St,-Apt-2,-Denver,-CO-80218","1376 N Williams St, Apt 2, Denver, CO 80218",Denver,CO,80218,1530,39.738224,-104.965683,1,1.0,525.0,Apartment,Active,2026-10-14T00:00:00.000Z,2
+282,"4444-W-13th-Ave,-Apt-2,-Denver,-CO-80204","4444 W 13th Ave, Apt 2, Denver, CO 80204",Denver,CO,80204,1295,39.73621,-105.045036,2,1.0,740.0,Apartment,Active,2026-10-02T00:00:00.000Z,14
+283,"2570-S-Dayton-Way,-Apt-G302,-Denver,-CO-80231","2570 S Dayton Way, Apt G302, Denver, CO 80231",Denver,CO,80231,1321,39.67123,-104.874069,2,2.0,1005.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+284,"148-S-Grape-St,-Denver,-CO-80246","148 S Grape St, Denver, CO 80246",Denver,CO,80246,9995,39.713753,-104.924416,6,7.0,4708.0,Single Family,Active,2026-10-12T00:00:00.000Z,4
+285,"3713-N-Franklin-St,-Denver,-CO-80205","3713 N Franklin St, Denver, CO 80205",Denver,CO,80205,1950,39.768472,-104.968751,1,1.0,678.0,Single Family,Active,2026-10-13T00:00:00.000Z,3
+286,"1551-Larimer-St,-Apt-903,-Denver,-CO-80202","1551 Larimer St, Apt 903, Denver, CO 80202",Denver,CO,80202,2250,39.748932,-104.998275,2,2.0,1315.0,Condo,Active,2026-10-10T00:00:00.000Z,6
+287,"831-861-N-Cherry-St,---861-24,-Denver,-CO-80220","831-861 N Cherry St, # 861-24, Denver, CO 80220",Denver,CO,80220,1510,39.729862,-104.934151,2,1.0,805.0,Apartment,Active,2026-10-14T00:00:00.000Z,2
+288,"1123-N-Clarkson-St,---1,-Denver,-CO-80218","1123 N Clarkson St, # 1, Denver, CO 80218",Denver,CO,80218,1500,39.734184,-104.977798,0,1.0,1000.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+289,"1370-Yates-St,-Unit-4,-Denver,-CO-80204","1370 Yates St, Unit 4, Denver, CO 80204",Denver,CO,80204,2899,39.737934,-105.050755,2,3.0,1334.0,Townhouse,Active,2026-09-26T00:00:00.000Z,20
+290,"2831-W-27th-Ave,-Apt-308,-Denver,-CO-80211","2831 W 27th Ave, Apt 308, Denver, CO 80211",Denver,CO,80211,1785,39.756355,-105.02298,2,2.0,765.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+291,"10150-E-Harvard-Ave,---B514,-Denver,-CO-80231","10150 E Harvard Ave, # B514, Denver, CO 80231",Denver,CO,80231,1465,39.670525,-104.870972,2,2.0,1100.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+292,"3400-Larimer-St,-Denver,-CO-80205","3400 Larimer St, Denver, CO 80205",Denver,CO,80205,3766,39.766014,-104.975281,3,4.0,2191.0,Single Family,Active,2026-10-14T00:00:00.000Z,2
+293,"9888-E-Vassar-Dr,-Apt-F104,-Denver,-CO-80231","9888 E Vassar Dr, Apt F104, Denver, CO 80231",Denver,CO,80231,1358,39.669277,-104.870956,1,1.0,818.0,Apartment,Active,2026-10-10T00:00:00.000Z,6
+294,"1135-S-Navajo-St,-Denver,-CO-80223","1135 S Navajo St, Denver, CO 80223",Denver,CO,80223,1675,39.696156,-105.004303,3,2.0,1350.0,Single Family,Active,2026-08-24T00:00:00.000Z,53
+295,"1529-E-23rd-Ave,-Denver,-CO-80205","1529 E 23rd Ave, Denver, CO 80205",Denver,CO,80205,2400,39.750916,-104.968743,2,1.0,1700.0,Single Family,Active,2026-10-10T00:00:00.000Z,6
+296,"1-S-Washington-St,-Apt-101,-Denver,-CO-80209","1 S Washington St, Apt 101, Denver, CO 80209",Denver,CO,80209,1265,39.716377,-104.979485,1,1.0,605.0,Apartment,Active,2026-10-14T00:00:00.000Z,2
+297,"4390-N-Tennyson-St,-Apt-410,-Denver,-CO-80212","4390 N Tennyson St, Apt 410, Denver, CO 80212",Denver,CO,80212,1760,39.776405,-105.043579,1,1.0,735.0,Apartment,Active,2026-10-14T00:00:00.000Z,2
+298,"2105-2155-Buchtel-Blvd-S,---A305,-Denver,-CO-80210","2105-2155 Buchtel Blvd S, # A305, Denver, CO 80210",Denver,CO,80210,1065,39.683929,-104.962791,0,1.0,405.0,Apartment,Active,2026-10-14T00:00:00.000Z,2
+299,"17909-E-54th-Ave,-Denver,-CO-80249","17909 E 54th Ave, Denver, CO 80249",Denver,CO,80249,2800,39.795826,-104.778886,3,2.5,2332.0,Single Family,Active,2026-10-01T00:00:00.000Z,15
+300,"828-N-Broadway,-Apt-436,-Denver,-CO-80203","828 N Broadway, Apt 436, Denver, CO 80203",Denver,CO,80203,1456,39.729519,-104.986984,0,1.0,569.0,Apartment,Active,2026-10-06T00:00:00.000Z,10
+301,"1086-N-Corona-St,-Apt-19,-Denver,-CO-80218","1086 N Corona St, Apt 19, Denver, CO 80218",Denver,CO,80218,1175,39.733318,-104.97377,1,1.0,765.0,Apartment,Active,2026-10-14T00:00:00.000Z,2
+302,"9888-E-Vassar-Dr,-Apt-L209,-Denver,-CO-80231","9888 E Vassar Dr, Apt L209, Denver, CO 80231",Denver,CO,80231,1818,39.669277,-104.870956,2,2.0,1220.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+303,"2821-W-24th-Ave,-Apt-208,-Denver,-CO-80211","2821 W 24th Ave, Apt 208, Denver, CO 80211",Denver,CO,80211,1270,39.75275,-105.022545,1,1.0,500.0,Apartment,Active,2026-10-14T00:00:00.000Z,2
+304,"4400-S-Monaco-St,---9-0934,-Denver,-CO-80237","4400 S Monaco St, # 9-0934, Denver, CO 80237",Denver,CO,80237,2447,39.633301,-104.908714,2,2.0,1210.0,Apartment,Active,2026-10-10T00:00:00.000Z,6
+305,"5380-Argonne-St,-Denver,-CO-80249","5380 Argonne St, Denver, CO 80249",Denver,CO,80249,2750,39.793357,-104.769715,4,3.0,1701.0,Townhouse,Active,2026-10-13T00:00:00.000Z,3
+306,"1230-N-Washington-St,-Apt-8,-Denver,-CO-80203","1230 N Washington St, Apt 8, Denver, CO 80203",Denver,CO,80203,1195,39.735802,-104.978447,1,1.0,550.0,Apartment,Active,2026-09-25T00:00:00.000Z,21
+307,"3310-S-Kenton-St,---4209,-Denver,-CO-80014","3310 S Kenton St, # 4209, Denver, CO 80014",Denver,CO,80014,1465,39.658314,-104.858337,1,1.0,689.0,Apartment,Active,2026-10-12T00:00:00.000Z,4
+308,"45-75-S-Washington-St,---75-304,-Denver,-CO-80209","45-75 S Washington St, # 75-304, Denver, CO 80209",Denver,CO,80209,1190,39.71537,-104.979485,1,1.0,525.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+309,"350-S-Jackson-St,-Apt-107,-Denver,-CO-80209","350 S Jackson St, Apt 107, Denver, CO 80209",Denver,CO,80209,1807,39.709995,-104.942215,1,1.0,770.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+310,"9888-E-Vassar-Dr,-Apt-L102,-Denver,-CO-80231","9888 E Vassar Dr, Apt L102, Denver, CO 80231",Denver,CO,80231,1579,39.669277,-104.870956,2,2.0,1128.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+311,"40-N-Ogden-St,-Apt-212,-Denver,-CO-80218","40 N Ogden St, Apt 212, Denver, CO 80218",Denver,CO,80218,1235,39.717213,-104.975494,1,1.0,470.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+312,"1575-N-Lafayette-St,---31,-Denver,-CO-80218","1575 N Lafayette St, # 31, Denver, CO 80218",Denver,CO,80218,1010,39.741459,-104.971069,0,1.0,500.0,Apartment,Active,2026-10-14T00:00:00.000Z,2
+313,"1321-Detroit-St,-Apt-304,-Denver,-CO-80206","1321 Detroit St, Apt 304, Denver, CO 80206",Denver,CO,80206,1150,39.737293,-104.954274,1,1.0,485.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+314,"4400-S-Monaco-St,---7-0722,-Denver,-CO-80237","4400 S Monaco St, # 7-0722, Denver, CO 80237",Denver,CO,80237,2391,39.633301,-104.908714,2,2.0,1263.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+315,"821-N-Corona-St,-Apt-310,-Denver,-CO-80218","821 N Corona St, Apt 310, Denver, CO 80218",Denver,CO,80218,2285,39.729679,-104.974464,1,1.0,825.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+316,"3400-E-17th-Ave,-Apt-104,-Denver,-CO-80206","3400 E 17th Ave, Apt 104, Denver, CO 80206",Denver,CO,80206,1285,39.743538,-104.94735,1,1.0,660.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+317,"2190-E-11th-Ave,-Apt-512,-Denver,-CO-80206","2190 E 11th Ave, Apt 512, Denver, CO 80206",Denver,CO,80206,1895,39.7332,-104.961403,0,1.0,517.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+318,"2190-E-11th-Ave,-Apt-329,-Denver,-CO-80206","2190 E 11th Ave, Apt 329, Denver, CO 80206",Denver,CO,80206,3117,39.733295,-104.961288,2,2.0,1055.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+319,"8330-E-Quincy-Ave,-Apt-B112,-Denver,-CO-80237","8330 E Quincy Ave, Apt B112, Denver, CO 80237",Denver,CO,80237,1496,39.637875,-104.891373,1,1.0,900.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+320,"2822-W-28th-Ave,-Apt-3,-Denver,-CO-80211","2822 W 28th Ave, Apt 3, Denver, CO 80211",Denver,CO,80211,1085,39.756905,-105.022896,1,1.0,695.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+321,"8330-E-Quincy-Ave,-Apt-J205,-Denver,-CO-80237","8330 E Quincy Ave, Apt J205, Denver, CO 80237",Denver,CO,80237,1691,39.637875,-104.891373,2,2.0,1200.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+322,"8-S-Clarkson-St,-Apt-302,-Denver,-CO-80209","8 S Clarkson St, Apt 302, Denver, CO 80209",Denver,CO,80209,1180,39.71624,-104.977745,1,1.0,485.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+323,"8600-E-Colfax-Ave,---207,-Denver,-CO-80220","8600 E Colfax Ave, # 207, Denver, CO 80220",Denver,CO,80220,995,39.739723,-104.887589,0,1.0,300.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+324,"3405-W-32nd-Ave,-Apt-805,-Denver,-CO-80211","3405 W 32nd Ave, Apt 805, Denver, CO 80211",Denver,CO,80211,2045,39.762348,-105.032684,2,1.0,780.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+325,"3405-W-32nd-Ave,-Apt-1002,-Denver,-CO-80211","3405 W 32nd Ave, Apt 1002, Denver, CO 80211",Denver,CO,80211,1185,39.762348,-105.032684,0,1.0,345.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+326,"2570-S-Dayton-Way,-Apt-G301,-Denver,-CO-80231","2570 S Dayton Way, Apt G301, Denver, CO 80231",Denver,CO,80231,1381,39.67123,-104.874069,2,2.0,1005.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+327,"601-And-621-S-Lincoln-St,---621-203,-Denver,-CO-80209","601 And 621 S Lincoln St, # 621-203, Denver, CO 80209",Denver,CO,80209,890,39.727047,-104.986511,0,1.0,410.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+328,"8600-E-Colfax-Ave,---205,-Denver,-CO-80220","8600 E Colfax Ave, # 205, Denver, CO 80220",Denver,CO,80220,995,39.739723,-104.887589,0,1.0,300.0,Single Family,Active,2026-10-15T00:00:00.000Z,1
+329,"2831-W-27th-Ave,-Apt-307,-Denver,-CO-80211","2831 W 27th Ave, Apt 307, Denver, CO 80211",Denver,CO,80211,1685,39.756355,-105.02298,2,2.0,765.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+330,"1535-N-Grant-St,-Apt-204,-Denver,-CO-80203","1535 N Grant St, Apt 204, Denver, CO 80203",Denver,CO,80203,885,39.740822,-104.983902,0,1.0,435.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+331,"1225-1235-E-9th-Ave,---9,-Denver,-CO-80218","1225-1235 E 9th Ave, # 9, Denver, CO 80218",Denver,CO,80218,1945,39.73064,-104.972115,2,1.0,670.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+332,"601-And-621-S-Lincoln-St,---621-108,-Denver,-CO-80209","601 And 621 S Lincoln St, # 621-108, Denver, CO 80209",Denver,CO,80209,915,39.727047,-104.986511,0,1.0,410.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+333,"1300-Monroe-St,-Apt-107,-Denver,-CO-80206","1300 Monroe St, Apt 107, Denver, CO 80206",Denver,CO,80206,1590,39.737038,-104.944756,2,1.0,785.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+334,"1403-Vine-St,-Apt-12,-Denver,-CO-80206","1403 Vine St, Apt 12, Denver, CO 80206",Denver,CO,80206,1500,39.738579,-104.962593,1,1.0,710.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+335,"130-And-140-S-Ogden-St,---140-205,-Denver,-CO-80209","130 And 140 S Ogden St, # 140-205, Denver, CO 80209",Denver,CO,80209,1100,39.714237,-104.975433,1,1.0,600.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+336,"3405-W-32nd-Ave,-Apt-301,-Denver,-CO-80211","3405 W 32nd Ave, Apt 301, Denver, CO 80211",Denver,CO,80211,1385,39.762348,-105.032684,1,1.0,590.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+337,"601-And-621-S-Lincoln-St,---601-302,-Denver,-CO-80209","601 And 621 S Lincoln St, # 601-302, Denver, CO 80209",Denver,CO,80209,1130,39.727047,-104.986511,1,1.0,585.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+338,"86-N-Grant-St,-Apt-8,-Denver,-CO-80203","86 N Grant St, Apt 8, Denver, CO 80203",Denver,CO,80203,1490,39.718132,-104.983429,2,1.0,660.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+339,"1225-1235-E-9th-Ave,---5,-Denver,-CO-80218","1225-1235 E 9th Ave, # 5, Denver, CO 80218",Denver,CO,80218,1940,39.73064,-104.972115,2,1.0,670.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+340,"1535-N-Grant-St,-Apt-8,-Denver,-CO-80203","1535 N Grant St, Apt 8, Denver, CO 80203",Denver,CO,80203,980,39.740803,-104.984077,0,1.0,425.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+341,"1900-S-Acoma-St,-Unit-563,-Denver,-CO-80223","1900 S Acoma St, Unit 563, Denver, CO 80223",Denver,CO,80223,1375,39.681702,-104.98848,0,1.0,582.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+342,"1586-N-Hooker-St,-Unit-211,-Denver,-CO-80204","1586 N Hooker St, Unit 211, Denver, CO 80204",Denver,CO,80204,1420,39.742401,-105.027863,1,1.0,520.0,Apartment,Active,2026-10-14T00:00:00.000Z,2
+343,"601-And-621-S-Lincoln-St,---601-205,-Denver,-CO-80209","601 And 621 S Lincoln St, # 601-205, Denver, CO 80209",Denver,CO,80209,885,39.727047,-104.986511,0,1.0,410.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+344,"601-And-621-S-Lincoln-St,---621-305,-Denver,-CO-80209","601 And 621 S Lincoln St, # 621-305, Denver, CO 80209",Denver,CO,80209,955,39.727047,-104.986511,0,1.0,410.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+345,"1225-1235-E-9th-Ave,---4,-Denver,-CO-80218","1225-1235 E 9th Ave, # 4, Denver, CO 80218",Denver,CO,80218,1785,39.73064,-104.972115,2,1.0,720.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+346,"350-S-Jackson-St,-Apt-221,-Denver,-CO-80209","350 S Jackson St, Apt 221, Denver, CO 80209",Denver,CO,80209,2050,39.709995,-104.942215,1,1.0,822.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+347,"86-N-Grant-St,-Apt-28,-Denver,-CO-80203","86 N Grant St, Apt 28, Denver, CO 80203",Denver,CO,80203,1415,39.718132,-104.983429,2,1.0,715.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+348,"8330-E-Quincy-Ave,-Apt-E308,-Denver,-CO-80237","8330 E Quincy Ave, Apt E308, Denver, CO 80237",Denver,CO,80237,1295,39.637875,-104.891373,1,1.0,740.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+349,"5300-E-Asbury-Ave,---5376,-Denver,-CO-80222","5300 E Asbury Ave, # 5376, Denver, CO 80222",Denver,CO,80222,2020,39.680157,-104.926018,3,1.0,1280.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+350,"910-Downing-St,-Apt-01F,-Denver,-CO-80218","910 Downing St, Apt 01F, Denver, CO 80218",Denver,CO,80218,1335,39.730776,-104.972643,1,1.0,550.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+351,"119-S-Harrison-St,-Unit-109,-Denver,-CO-80209","119 S Harrison St, Unit 109, Denver, CO 80209",Denver,CO,80209,2800,39.714062,-104.941681,2,2.0,1145.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+352,"995-N-Corona-St,-Apt-9,-Denver,-CO-80218","995 N Corona St, Apt 9, Denver, CO 80218",Denver,CO,80218,1150,39.731857,-104.974411,1,1.0,535.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+353,"1536-Vine-St,-Apt-103,-Denver,-CO-80206","1536 Vine St, Apt 103, Denver, CO 80206",Denver,CO,80206,1195,39.740761,-104.961922,0,1.0,380.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+354,"2959-N-Franklin-St,-Denver,-CO-80205","2959 N Franklin St, Denver, CO 80205",Denver,CO,80205,895,39.759344,-104.968783,1,1.0,300.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+355,"850-Cherry-St,-Apt-107,-Denver,-CO-80220","850 Cherry St, Apt 107, Denver, CO 80220",Denver,CO,80220,975,39.730247,-104.933685,1,1.0,635.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+356,"3405-W-32nd-Ave,-Apt-1101,-Denver,-CO-80211","3405 W 32nd Ave, Apt 1101, Denver, CO 80211",Denver,CO,80211,1445,39.762348,-105.032684,1,1.0,590.0,Apartment,Active,2026-10-15T00:00:00.000Z,1
+357,"3200-W-Floyd-Ave,-Apt-13,-Englewood,-CO-80110","3200 W Floyd Ave, Apt 13, Englewood, CO 80110",Englewood,CO,80110,1165,39.6572,-105.029358,2,1.0,775.0,Apartment,Active,2026-10-14T00:00:00.000Z,2
+358,"1540-N-Raleigh-St,-Unit-201,-Denver,-CO-80204","1540 N Raleigh St, Unit 201, Denver, CO 80204",Denver,CO,80204,1099,39.741322,-105.041351,1,1.0,600.0,Apartment,Active,2026-10-14T00:00:00.000Z,2
+359,"1330-W-Mississippi-Ave,-Apt-301,-Denver,-CO-80223","1330 W Mississippi Ave, Apt 301, Denver, CO 80223",Denver,CO,80223,729,39.696442,-105.002937,1,1.0,531.0,Apartment,Active,2026-10-14T00:00:00.000Z,2
+360,"4315-Bryant-St,-Denver,-CO-80211","4315 Bryant St, Denver, CO 80211",Denver,CO,80211,3449,39.775723,-105.019403,3,2.5,1709.0,Single Family,Active,2026-10-14T00:00:00.000Z,2
+361,"2069-S-Acoma-St,-Denver,-CO-80223","2069 S Acoma St, Denver, CO 80223",Denver,CO,80223,2050,39.679075,-104.989196,2,1.0,695.0,Single Family,Active,2026-10-14T00:00:00.000Z,2
+362,"2900-N-Downing-St,-Apt-206,-Denver,-CO-80205","2900 N Downing St, Apt 206, Denver, CO 80205",Denver,CO,80205,1949,39.758629,-104.972986,2,2.0,1151.0,Condo,Active,2026-10-14T00:00:00.000Z,2
+363,"480-N-Washington-St,-Apt-1,-Denver,-CO-80203","480 N Washington St, Apt 1, Denver, CO 80203",Denver,CO,80203,1777,39.723934,-104.978493,1,1.0,,Apartment,Active,2026-10-14T00:00:00.000Z,2
+364,"1590-Wolff-St,-Apt-104,-Denver,-CO-80204","1590 Wolff St, Apt 104, Denver, CO 80204",Denver,CO,80204,1099,39.742001,-105.048332,1,1.0,600.0,Apartment,Active,2026-10-14T00:00:00.000Z,2
+365,"1545-Quitman-St,-Apt-104,-Denver,-CO-80204","1545 Quitman St, Apt 104, Denver, CO 80204",Denver,CO,80204,1199,39.741322,-105.040802,1,1.0,600.0,Apartment,Active,2026-10-14T00:00:00.000Z,2
+366,"1545-Quitman-St,-Apt-108,-Denver,-CO-80204","1545 Quitman St, Apt 108, Denver, CO 80204",Denver,CO,80204,925,39.741322,-105.040802,0,1.0,450.0,Apartment,Active,2026-10-14T00:00:00.000Z,2
+367,"3120-W-Iliff-Ave,-Apt-202A,-Denver,-CO-80219","3120 W Iliff Ave, Apt 202A, Denver, CO 80219",Denver,CO,80219,895,39.675121,-105.02755,1,1.0,620.0,Apartment,Active,2026-10-14T00:00:00.000Z,2
+368,"1065-S-Quivas-St,-Apt-407,-Denver,-CO-80223","1065 S Quivas St, Apt 407, Denver, CO 80223",Denver,CO,80223,1000,39.697327,-105.007103,2,1.0,704.0,Apartment,Active,2026-10-14T00:00:00.000Z,2
+369,"1685-Colorado-Blvd,-Apt-304,-Denver,-CO-80220","1685 Colorado Blvd, Apt 304, Denver, CO 80220",Denver,CO,80220,999,39.743435,-104.941101,1,1.0,550.0,Apartment,Active,2026-10-14T00:00:00.000Z,2
+370,"2715-2717-E-11th-Ave,-Denver,-CO-80206","2715-2717 E 11th Ave, Denver, CO 80206",Denver,CO,80206,3000,39.733837,-104.954895,2,2.0,1700.0,Apartment,Active,2026-10-14T00:00:00.000Z,2
+371,"3120-W-Iliff-Ave,-Apt-308,-Denver,-CO-80219","3120 W Iliff Ave, Apt 308, Denver, CO 80219",Denver,CO,80219,995,39.675121,-105.02755,1,1.0,620.0,Apartment,Active,2026-10-14T00:00:00.000Z,2
+372,"1540-N-Raleigh-St,-Unit-1,-Denver,-CO-80204","1540 N Raleigh St, Unit 1, Denver, CO 80204",Denver,CO,80204,1199,39.741322,-105.041351,1,1.0,600.0,Apartment,Active,2026-10-14T00:00:00.000Z,2
+373,"6785-E-Arizona-Ave-Apt-E,-Denver,-CO-80224","6785 E Arizona Ave Apt E, Denver, CO 80224",Denver,CO,80224,1095,39.695159,-104.908972,1,1.0,614.0,Single Family,Active,2026-10-14T00:00:00.000Z,2
+374,"59-N-Ogden-St,-Apt-6,-Denver,-CO-80218","59 N Ogden St, Apt 6, Denver, CO 80218",Denver,CO,80218,1320,39.71764,-104.976044,1,1.0,595.0,Apartment,Active,2026-10-14T00:00:00.000Z,2
+375,"2225-W-31st-Ave,-Denver,-CO-80211","2225 W 31st Ave, Denver, CO 80211",Denver,CO,80211,2750,39.760936,-105.013564,4,2.5,1700.0,Single Family,Active,2026-10-14T00:00:00.000Z,2
+376,"2411-S-Race-St,-Denver,-CO-80210","2411 S Race St, Denver, CO 80210",Denver,CO,80210,4552,39.672804,-104.964423,5,3.5,2774.0,Single Family,Active,2026-10-14T00:00:00.000Z,2
+377,"1563-N-Washington-St,-Apt-310,-Denver,-CO-80203","1563 N Washington St, Apt 310, Denver, CO 80203",Denver,CO,80203,749,39.741215,-104.97908,0,1.0,375.0,Apartment,Active,2026-10-14T00:00:00.000Z,2
+378,"1025-Jasmine-St,-Unit-6,-Denver,-CO-80220","1025 Jasmine St, Unit 6, Denver, CO 80220",Denver,CO,80220,2495,39.73221,-104.918838,2,1.5,1185.0,Townhouse,Active,2026-10-14T00:00:00.000Z,2
+379,"2495-S-Gaylord-St,-Apt-6,-Denver,-CO-80210","2495 S Gaylord St, Apt 6, Denver, CO 80210",Denver,CO,80210,1100,39.671459,-104.962067,1,1.0,750.0,Apartment,Active,2026-10-14T00:00:00.000Z,2
+380,"1235-N-Washington-St,-Apt-19,-Denver,-CO-80203","1235 N Washington St, Apt 19, Denver, CO 80203",Denver,CO,80203,759,39.735813,-104.979034,0,1.0,250.0,Apartment,Active,2026-10-14T00:00:00.000Z,2
+381,"1066-N-Clarkson-St,-Apt-1,-Denver,-CO-80218","1066 N Clarkson St, Apt 1, Denver, CO 80218",Denver,CO,80218,1206,39.733208,-104.977278,1,1.0,575.0,Apartment,Active,2026-10-14T00:00:00.000Z,2
+382,"835-N-Sherman-St,-Apt-16,-Denver,-CO-80203","835 N Sherman St, Apt 16, Denver, CO 80203",Denver,CO,80203,1070,39.729725,-104.985268,1,1.0,550.0,Apartment,Active,2026-10-14T00:00:00.000Z,2
+383,"2465-S-Gaylord-St,-Apt-7,-Denver,-CO-80210","2465 S Gaylord St, Apt 7, Denver, CO 80210",Denver,CO,80210,995,39.671692,-104.961945,1,1.0,589.0,Apartment,Active,2026-10-14T00:00:00.000Z,2
+384,"1010-N-Corona-St,-Apt-211,-Denver,-CO-80218","1010 N Corona St, Apt 211, Denver, CO 80218",Denver,CO,80218,895,39.732548,-104.97377,0,1.0,435.0,Apartment,Active,2026-10-14T00:00:00.000Z,2
+385,"1165-N-Grant-St,-Apt-304,-Denver,-CO-80203","1165 N Grant St, Apt 304, Denver, CO 80203",Denver,CO,80203,1179,39.734772,-104.983994,2,1.0,700.0,Apartment,Active,2026-10-14T00:00:00.000Z,2
+386,"3145-W-Arkansas-Ave,-Apt-207,-Denver,-CO-80219","3145 W Arkansas Ave, Apt 207, Denver, CO 80219",Denver,CO,80219,945,39.691689,-105.027504,1,1.0,475.0,Apartment,Active,2026-10-14T00:00:00.000Z,2
+387,"835-N-Sherman-St,-Apt-3,-Denver,-CO-80203","835 N Sherman St, Apt 3, Denver, CO 80203",Denver,CO,80203,1025,39.729725,-104.985268,1,1.0,450.0,Apartment,Active,2026-10-14T00:00:00.000Z,2
+388,"1756-N-Williams-St,-Denver,-CO-80218","1756 N Williams St, Denver, CO 80218",Denver,CO,80218,3114,39.744134,-104.965554,2,2.5,1355.0,Single Family,Active,2026-10-14T00:00:00.000Z,2
+389,"848-S-Dexter-St,-Unit-B301,-Denver,-CO-80246","848 S Dexter St, Unit B301, Denver, CO 80246",Denver,CO,80246,1263,39.701778,-104.932365,2,2.0,985.0,Apartment,Active,2026-10-14T00:00:00.000Z,2
+390,"1133-N-Clarkson-St,-Apt-2,-Denver,-CO-80218","1133 N Clarkson St, Apt 2, Denver, CO 80218",Denver,CO,80218,1150,39.734337,-104.977867,1,1.0,400.0,Apartment,Active,2026-10-14T00:00:00.000Z,2
+391,"5995-W-Hampden-Ave,-Unit-4D,-Denver,-CO-80227","5995 W Hampden Ave, Unit 4D, Denver, CO 80227",Denver,CO,80227,1040,39.654267,-105.064443,1,1.0,617.0,Condo,Active,2026-10-14T00:00:00.000Z,2
+392,"3080-W-Iliff-Ave,-Apt-209,-Denver,-CO-80219","3080 W Iliff Ave, Apt 209, Denver, CO 80219",Denver,CO,80219,895,39.674904,-105.026543,0,,610.0,Apartment,Active,2026-10-14T00:00:00.000Z,2
+393,"3080-W-Iliff-Ave,-Apt-304,-Denver,-CO-80219","3080 W Iliff Ave, Apt 304, Denver, CO 80219",Denver,CO,80219,895,39.674904,-105.026543,1,1.0,590.0,Apartment,Active,2026-10-14T00:00:00.000Z,2
+394,"1350-S-Canosa-Ct,-Denver,-CO-80219","1350 S Canosa Ct, Denver, CO 80219",Denver,CO,80219,2310,39.691975,-105.019166,2,1.0,786.0,Single Family,Active,2026-10-14T00:00:00.000Z,2
+395,"2667-W-Evans-Ave,-Unit-3310,-Denver,-CO-80219","2667 W Evans Ave, Unit 3310, Denver, CO 80219",Denver,CO,80219,799,39.678989,-105.019356,1,1.0,440.0,Apartment,Active,2026-10-14T00:00:00.000Z,2
+396,"2912-Perry-St,-Unit-L,-Denver,-CO-80212","2912 Perry St, Unit L, Denver, CO 80212",Denver,CO,80212,5200,39.758785,-105.039001,4,5.0,3271.0,Single Family,Active,2026-10-14T00:00:00.000Z,2
+397,"2495-S-Gaylord-St,-Apt-8,-Denver,-CO-80210","2495 S Gaylord St, Apt 8, Denver, CO 80210",Denver,CO,80210,1300,39.671459,-104.962067,2,1.0,1000.0,Apartment,Active,2026-10-14T00:00:00.000Z,2
+398,"1620-N-Utica-St,-Unit-1604,-Denver,-CO-80204","1620 N Utica St, Unit 1604, Denver, CO 80204",Denver,CO,80204,2450,39.742599,-105.044968,2,1.5,708.0,Apartment,Active,2026-10-14T00:00:00.000Z,2
+399,"1632-E-30th-Ave,-Denver,-CO-80205","1632 E 30th Ave, Denver, CO 80205",Denver,CO,80205,1200,39.759329,-104.96756,1,1.0,525.0,Single Family,Active,2026-10-14T00:00:00.000Z,2
+400,"1235-N-Washington-St,-Apt-7,-Denver,-CO-80203","1235 N Washington St, Apt 7, Denver, CO 80203",Denver,CO,80203,709,39.735813,-104.979034,0,1.0,250.0,Apartment,Active,2026-10-14T00:00:00.000Z,2
+401,"2000-Irving-St,-Denver,-CO-80211","2000 Irving St, Denver, CO 80211",Denver,CO,80211,3200,39.747737,-105.029546,2,2.0,1820.0,Single Family,Active,2026-10-14T00:00:00.000Z,2
+402,"3080-W-Iliff-Ave,-Apt-204,-Denver,-CO-80219","3080 W Iliff Ave, Apt 204, Denver, CO 80219",Denver,CO,80219,995,39.674904,-105.026543,0,,590.0,Apartment,Active,2026-10-14T00:00:00.000Z,2
+403,"1240-Cherry-St,-Denver,-CO-80220","1240 Cherry St, Denver, CO 80220",Denver,CO,80220,3299,39.735385,-104.933516,4,2.0,2000.0,Single Family,Active,2026-10-14T00:00:00.000Z,2
+404,"1590-Wolff-St,-Apt-203,-Denver,-CO-80204","1590 Wolff St, Apt 203, Denver, CO 80204",Denver,CO,80204,1199,39.742001,-105.048332,1,1.0,600.0,Apartment,Active,2026-10-14T00:00:00.000Z,2
+405,"710-S-Clinton-St,-Apt-8B,-Denver,-CO-80247","710 S Clinton St, Apt 8B, Denver, CO 80247",Denver,CO,80247,1495,39.704059,-104.879852,2,2.0,1200.0,Single Family,Active,2026-10-14T00:00:00.000Z,2
+406,"2700-N-Federal-Blvd,-Unit-201,-Denver,-CO-80211","2700 N Federal Blvd, Unit 201, Denver, CO 80211",Denver,CO,80211,1334,39.756275,-105.024849,2,1.0,900.0,Apartment,Active,2026-10-14T00:00:00.000Z,2
+407,"5525-E-Yale-Ave,-Apt-4,-Denver,-CO-80222","5525 E Yale Ave, Apt 4, Denver, CO 80222",Denver,CO,80222,999,39.668091,-104.924286,1,1.0,720.0,Apartment,Active,2026-10-14T00:00:00.000Z,2
+408,"2016-N-Bryant-St,-Unit-103,-Denver,-CO-80211","2016 N Bryant St, Unit 103, Denver, CO 80211",Denver,CO,80211,2387,39.748092,-105.018609,2,2.5,1268.0,Apartment,Active,2026-10-14T00:00:00.000Z,2
+409,"1460-N-Quitman-St,-Denver,-CO-80204","1460 N Quitman St, Denver, CO 80204",Denver,CO,80204,2795,39.73939,-105.040104,3,2.0,1240.0,Townhouse,Active,2026-10-14T00:00:00.000Z,2
+410,"5178-Andes-Way,-Denver,-CO-80249","5178 Andes Way, Denver, CO 80249",Denver,CO,80249,2549,39.791221,-104.769834,3,2.5,1470.0,Single Family,Active,2026-10-14T00:00:00.000Z,2
+411,"5451-Dillon-St,-Denver,-CO-80239","5451 Dillon St, Denver, CO 80239",Denver,CO,80239,2940,39.791624,-104.820533,3,2.0,1431.0,Single Family,Active,2026-10-14T00:00:00.000Z,2
+412,"935-N-Logan-St,-Apt-D,-Denver,-CO-80203","935 N Logan St, Apt D, Denver, CO 80203",Denver,CO,80203,698,39.731167,-104.98262,0,1.0,350.0,Apartment,Active,2026-10-14T00:00:00.000Z,2
+413,"900-N-Washington-St,-Apt-303,-Denver,-CO-80203","900 N Washington St, Apt 303, Denver, CO 80203",Denver,CO,80203,1199,39.730595,-104.978462,1,1.0,,Apartment,Active,2026-10-14T00:00:00.000Z,2
+414,"1020-15th-St,-Apt-7K,-Denver,-CO-80202","1020 15th St, Apt 7K, Denver, CO 80202",Denver,CO,80202,1249,39.746323,-104.996796,1,1.0,632.0,Single Family,Active,2026-10-14T00:00:00.000Z,2
+415,"1351-Xenia-St,-Apt-2F,-Denver,-CO-80220","1351 Xenia St, Apt 2F, Denver, CO 80220",Denver,CO,80220,799,39.738285,-104.886147,0,1.0,500.0,Apartment,Active,2026-10-14T00:00:00.000Z,2
+416,"3180-S-Federal-Blvd,-Unit-B02,-Denver,-CO-80236","3180 S Federal Blvd, Unit B02, Denver, CO 80236",Denver,CO,80236,1600,39.659111,-105.024689,2,1.0,800.0,Apartment,Active,2026-10-14T00:00:00.000Z,2
+417,"696-S-Glencoe-St,-Denver,-CO-80246","696 S Glencoe St, Denver, CO 80246",Denver,CO,80246,2940,39.704032,-104.92446,3,3.5,1828.0,Single Family,Active,2026-10-14T00:00:00.000Z,2
+418,"1380-Steele-St,-Apt-201,-Denver,-CO-80206","1380 Steele St, Apt 201, Denver, CO 80206",Denver,CO,80206,1895,39.73814,-104.949158,2,2.0,925.0,Apartment,Active,2026-10-14T00:00:00.000Z,2
+419,"1310-N-Leyden-St,-Unit-208,-Denver,-CO-80220","1310 N Leyden St, Unit 208, Denver, CO 80220",Denver,CO,80220,1089,39.736965,-104.914726,1,1.0,,Apartment,Active,2026-10-14T00:00:00.000Z,2
+420,"1725-W-Mosier-Pl,-Apt-301,-Denver,-CO-80223","1725 W Mosier Pl, Apt 301, Denver, CO 80223",Denver,CO,80223,995,39.695927,-105.007462,1,1.0,600.0,Apartment,Active,2026-10-14T00:00:00.000Z,2
+421,"4698-E-Mexico-Ave,-Denver,-CO-80222","4698 E Mexico Ave, Denver, CO 80222",Denver,CO,80222,3100,39.685479,-104.93297,4,2.0,2480.0,Single Family,Active,2026-10-14T00:00:00.000Z,2
+422,"1342-Xavier-St,-Denver,-CO-80204","1342 Xavier St, Denver, CO 80204",Denver,CO,80204,2749,39.737487,-105.049508,4,2.0,1900.0,Single Family,Active,2026-10-14T00:00:00.000Z,2
+423,"3833-Shoshone-St,-Denver,-CO-80211","3833 Shoshone St, Denver, CO 80211",Denver,CO,80211,1695,39.769944,-105.009838,1,1.0,592.0,Townhouse,Active,2026-10-14T00:00:00.000Z,2
+424,"854-N-Clarkson-St,-Unit-A,-Denver,-CO-80218","854 N Clarkson St, Unit A, Denver, CO 80218",Denver,CO,80218,1980,39.730022,-104.977264,2,1.0,950.0,Apartment,Active,2026-10-14T00:00:00.000Z,2
+425,"1875-S-Vallejo-St,-Denver,-CO-80223","1875 S Vallejo St, Denver, CO 80223",Denver,CO,80223,2195,39.682701,-105.013179,2,1.0,713.0,Single Family,Active,2026-10-14T00:00:00.000Z,2
+426,"1960-N-Sherman-St,-Apt-45,-Denver,-CO-80203","1960 N Sherman St, Apt 45, Denver, CO 80203",Denver,CO,80203,1125,39.747318,-104.984459,1,1.0,550.0,Apartment,Active,2026-10-14T00:00:00.000Z,2
+427,"4567-E-Yale-Ave,-Apt-207,-Denver,-CO-80222","4567 E Yale Ave, Apt 207, Denver, CO 80222",Denver,CO,80222,1349,39.667728,-104.935242,2,1.0,800.0,Apartment,Active,2026-10-14T00:00:00.000Z,2
+428,"903-E-14th-Ave,-Unit-1416A,-Denver,-CO-80218","903 E 14th Ave, Unit 1416A, Denver, CO 80218",Denver,CO,80218,1299,39.738621,-104.97628,2,1.0,,Apartment,Active,2026-10-14T00:00:00.000Z,2
+429,"1065-S-Quivas-St,-Apt-202,-Denver,-CO-80223","1065 S Quivas St, Apt 202, Denver, CO 80223",Denver,CO,80223,799,39.697327,-105.007103,1,1.0,440.0,Apartment,Active,2026-10-14T00:00:00.000Z,2
+430,"1590-Wolff-St,-Apt-105,-Denver,-CO-80204","1590 Wolff St, Apt 105, Denver, CO 80204",Denver,CO,80204,1199,39.742001,-105.048332,1,1.0,600.0,Apartment,Active,2026-10-14T00:00:00.000Z,2
+431,"4753-N-Williams-St,-Denver,-CO-80216","4753 N Williams St, Denver, CO 80216",Denver,CO,80216,1995,39.782982,-104.965925,2,1.0,769.0,Single Family,Active,2026-10-14T00:00:00.000Z,2
+432,"2016-N-Bryant-St,-Unit-101,-Denver,-CO-80211","2016 N Bryant St, Unit 101, Denver, CO 80211",Denver,CO,80211,2343,39.747997,-105.018702,2,2.5,1454.0,Apartment,Active,2026-10-14T00:00:00.000Z,2
+433,"2644-S-Gaylord-St,-Denver,-CO-80210","2644 S Gaylord St, Denver, CO 80210",Denver,CO,80210,2995,39.66858,-104.961427,4,2.0,1463.0,Apartment,Active,2026-10-14T00:00:00.000Z,2
+434,"1522-N-Wabash-St,-Unit-5,-Denver,-CO-80220","1522 N Wabash St, Unit 5, Denver, CO 80220",Denver,CO,80220,912,39.740829,-104.889061,1,1.0,750.0,Apartment,Active,2026-10-14T00:00:00.000Z,2
+435,"1739-E-35th-Ave,-Denver,-CO-80205","1739 E 35th Ave, Denver, CO 80205",Denver,CO,80205,1928,39.765966,-104.966291,2,1.0,865.0,Single Family,Active,2026-10-14T00:00:00.000Z,2
+436,"1811-S-Quebec-Way,-Apt-36,-Denver,-CO-80231","1811 S Quebec Way, Apt 36, Denver, CO 80231",Denver,CO,80231,1745,39.682186,-104.893472,2,2.5,1131.0,Townhouse,Active,2026-10-14T00:00:00.000Z,2
+437,"848-S-Dexter-St,-Unit-B201,-Denver,-CO-80246","848 S Dexter St, Unit B201, Denver, CO 80246",Denver,CO,80246,1263,39.701778,-104.932365,2,2.0,985.0,Apartment,Active,2026-10-14T00:00:00.000Z,2
+438,"1250-N-Logan-St,-Apt-309,-Denver,-CO-80203","1250 N Logan St, Apt 309, Denver, CO 80203",Denver,CO,80203,849,39.736057,-104.981941,0,1.0,300.0,Apartment,Active,2026-10-14T00:00:00.000Z,2
+439,"333-E-16th-Ave,-Apt-707,-Denver,-CO-80203","333 E 16th Ave, Apt 707, Denver, CO 80203",Denver,CO,80203,995,39.74202,-104.982704,0,1.0,475.0,Apartment,Active,2026-10-14T00:00:00.000Z,2
+440,"1461-N-Logan-St,-Apt-C3,-Denver,-CO-80203","1461 N Logan St, Apt C3, Denver, CO 80203",Denver,CO,80203,1025,39.739662,-104.982727,1,1.0,707.0,Apartment,Active,2026-10-14T00:00:00.000Z,2
+441,"818-S-Dexter-St,-Unit-A312,-Denver,-CO-80246","818 S Dexter St, Unit A312, Denver, CO 80246",Denver,CO,80246,1402,39.701435,-104.932297,2,1.5,880.0,Apartment,Active,2026-10-14T00:00:00.000Z,2
+442,"848-S-Dexter-St,-Unit-B507,-Denver,-CO-80246","848 S Dexter St, Unit B507, Denver, CO 80246",Denver,CO,80246,992,39.701778,-104.932365,1,1.0,630.0,Apartment,Active,2026-10-14T00:00:00.000Z,2
+443,"2630-Pontiac-St,-Denver,-CO-80207","2630 Pontiac St, Denver, CO 80207",Denver,CO,80207,2544,39.755495,-104.905436,3,1.0,1392.0,Single Family,Active,2026-10-14T00:00:00.000Z,2
+444,"1974-S-University-Blvd,-Apt-10,-Denver,-CO-80210","1974 S University Blvd, Apt 10, Denver, CO 80210",Denver,CO,80210,880,39.680607,-104.958939,1,1.0,570.0,Apartment,Active,2026-10-14T00:00:00.000Z,2
+445,"1205-N-Washington-St,-Apt-B2,-Denver,-CO-80203","1205 N Washington St, Apt B2, Denver, CO 80203",Denver,CO,80203,719,39.735355,-104.979027,0,1.0,200.0,Apartment,Active,2026-10-14T00:00:00.000Z,2
+446,"1160-N-Colorado-Blvd,-Apt-27,-Denver,-CO-80206","1160 N Colorado Blvd, Apt 27, Denver, CO 80206",Denver,CO,80206,1199,39.733978,-104.940369,2,1.0,750.0,Apartment,Active,2026-10-14T00:00:00.000Z,2
+447,"333-E-16th-Ave,-Apt-103,-Denver,-CO-80203","333 E 16th Ave, Apt 103, Denver, CO 80203",Denver,CO,80203,1195,39.74202,-104.982704,1,1.0,600.0,Apartment,Active,2026-10-14T00:00:00.000Z,2
+448,"1911-W-Chaffee-Pl,-Denver,-CO-80211","1911 W Chaffee Pl, Denver, CO 80211",Denver,CO,80211,3075,39.779217,-105.009984,3,2.0,1083.0,Single Family,Active,2026-10-14T00:00:00.000Z,2
+449,"1960-N-Sherman-St,-Apt-22,-Denver,-CO-80203","1960 N Sherman St, Apt 22, Denver, CO 80203",Denver,CO,80203,945,39.747318,-104.984459,0,1.0,400.0,Apartment,Active,2026-10-14T00:00:00.000Z,2
+450,"1433-Ivy-St,-Denver,-CO-80220","1433 Ivy St, Denver, CO 80220",Denver,CO,80220,2025,39.738965,-104.920848,2,1.0,809.0,Townhouse,Active,2026-10-14T00:00:00.000Z,2
+451,"3120-W-Iliff-Ave,-Apt-307B,-Denver,-CO-80219","3120 W Iliff Ave, Apt 307B, Denver, CO 80219",Denver,CO,80219,995,39.675121,-105.02755,1,1.0,620.0,Apartment,Active,2026-10-14T00:00:00.000Z,2
+452,"2444-S-York-St,-Apt-404,-Denver,-CO-80210","2444 S York St, Apt 404, Denver, CO 80210",Denver,CO,80210,1325,39.672115,-104.960243,1,1.0,665.0,Apartment,Active,2026-10-14T00:00:00.000Z,2
+453,"1192-S-Vallejo-St,-Denver,-CO-80223","1192 S Vallejo St, Denver, CO 80223",Denver,CO,80223,3000,39.695177,-105.014231,4,2.0,1880.0,Single Family,Active,2026-10-14T00:00:00.000Z,2
+454,"123-S-Pennsylvania-St,-Apt-4,-Denver,-CO-80209","123 S Pennsylvania St, Apt 4, Denver, CO 80209",Denver,CO,80209,1395,39.714317,-104.98188,1,1.0,438.0,Apartment,Active,2026-10-14T00:00:00.000Z,2
+455,"2545-Champa-St,-Apt-1,-Denver,-CO-80205","2545 Champa St, Apt 1, Denver, CO 80205",Denver,CO,80205,1049,39.755753,-104.982513,0,1.0,400.0,Apartment,Active,2026-10-14T00:00:00.000Z,2
+456,"718-N-Grant-St,-Apt-3,-Denver,-CO-80203","718 N Grant St, Apt 3, Denver, CO 80203",Denver,CO,80203,1125,39.727593,-104.983226,1,1.0,600.0,Apartment,Active,2026-10-14T00:00:00.000Z,2
+457,"1458-Ivanhoe-St,-Denver,-CO-80220","1458 Ivanhoe St, Denver, CO 80220",Denver,CO,80220,858,39.73954,-104.921272,0,1.0,500.0,Apartment,Active,2026-10-14T00:00:00.000Z,2
+458,"1540-N-Uinta-St,-Denver,-CO-80220","1540 N Uinta St, Denver, CO 80220",Denver,CO,80220,1035,39.741325,-104.892745,1,1.0,800.0,Apartment,Active,2026-10-14T00:00:00.000Z,2
+459,"1262-Yates-St,-Unit-3,-Denver,-CO-80204","1262 Yates St, Unit 3, Denver, CO 80204",Denver,CO,80204,2650,39.736085,-105.050671,2,2.5,1272.0,Townhouse,Active,2026-10-14T00:00:00.000Z,2
+460,"2667-W-Evans-Ave,-Unit-3404,-Denver,-CO-80219","2667 W Evans Ave, Unit 3404, Denver, CO 80219",Denver,CO,80219,1100,39.678989,-105.019356,2,1.0,610.0,Apartment,Active,2026-10-14T00:00:00.000Z,2
+461,"707-E-10th-Ave,-Apt-3,-Denver,-CO-80203","707 E 10th Ave, Apt 3, Denver, CO 80203",Denver,CO,80203,1729,39.732197,-104.978462,2,1.0,,Apartment,Active,2026-10-14T00:00:00.000Z,2
+462,"3131-E-Alameda-Ave,-Unit-303,-Denver,-CO-80209","3131 E Alameda Ave, Unit 303, Denver, CO 80209",Denver,CO,80209,2750,39.7118,-104.950614,2,2.0,1150.0,Condo,Active,2026-10-14T00:00:00.000Z,2
+463,"1470-S-Quebec-Way,-Apt-129,-Denver,-CO-80231","1470 S Quebec Way, Apt 129, Denver, CO 80231",Denver,CO,80231,2750,39.692336,-104.898284,3,3.0,1596.0,Townhouse,Active,2026-10-14T00:00:00.000Z,2
+464,"1351-Xenia-St,-Apt-3A,-Denver,-CO-80220","1351 Xenia St, Apt 3A, Denver, CO 80220",Denver,CO,80220,995,39.738285,-104.886147,1,1.0,700.0,Apartment,Active,2026-10-14T00:00:00.000Z,2
+465,"150-S-Clarkson-St,-Apt-204,-Denver,-CO-80209","150 S Clarkson St, Apt 204, Denver, CO 80209",Denver,CO,80209,1149,39.713707,-104.977737,1,1.0,600.0,Apartment,Active,2026-10-14T00:00:00.000Z,2
+466,"21498-E-46th-Ave,-Denver,-CO-80249","21498 E 46th Ave, Denver, CO 80249",Denver,CO,80249,2140,39.779842,-104.737623,2,1.0,796.0,Single Family,Active,2026-10-14T00:00:00.000Z,2
+467,"1280-Wolff-St,-Apt-2,-Denver,-CO-80204","1280 Wolff St, Apt 2, Denver, CO 80204",Denver,CO,80204,1295,39.736202,-105.048371,2,1.0,700.0,Apartment,Active,2026-10-14T00:00:00.000Z,2
+468,"65-N-Sherman-St,-Unit-B,-Denver,-CO-80203","65 N Sherman St, Unit B, Denver, CO 80203",Denver,CO,80203,1099,39.717754,-104.985268,0,1.0,300.0,Apartment,Active,2026-10-14T00:00:00.000Z,2
+469,"918-N-Osceola-St,-Denver,-CO-80204","918 N Osceola St, Denver, CO 80204",Denver,CO,80204,1995,39.7313,-105.038071,3,1.0,,Apartment,Active,2026-10-14T00:00:00.000Z,2
+470,"818-S-Dexter-St,-Unit-A305,-Denver,-CO-80246","818 S Dexter St, Unit A305, Denver, CO 80246",Denver,CO,80246,1277,39.701435,-104.932297,2,1.5,880.0,Apartment,Active,2026-10-14T00:00:00.000Z,2
+471,"1431-N-Pearl-St,-Apt-206,-Denver,-CO-80203","1431 N Pearl St, Apt 206, Denver, CO 80203",Denver,CO,80203,995,39.739017,-104.980209,1,1.0,480.0,Apartment,Active,2026-10-14T00:00:00.000Z,2
+472,"1419-N-Downing-St,-Apt-104,-Denver,-CO-80218","1419 N Downing St, Apt 104, Denver, CO 80218",Denver,CO,80218,799,39.738892,-104.97332,0,1.0,550.0,Apartment,Active,2026-10-14T00:00:00.000Z,2
+473,"1620-N-Utica-St,-Unit-1610,-Denver,-CO-80204","1620 N Utica St, Unit 1610, Denver, CO 80204",Denver,CO,80204,1550,39.742599,-105.044968,1,1.0,401.0,Apartment,Active,2026-10-14T00:00:00.000Z,2
+474,"1443-Jasmine-St,-Denver,-CO-80220","1443 Jasmine St, Denver, CO 80220",Denver,CO,80220,1895,39.739182,-104.918726,2,1.0,950.0,Apartment,Active,2026-10-14T00:00:00.000Z,2
+475,"1065-S-Quivas-St,-Apt-103,-Denver,-CO-80223","1065 S Quivas St, Apt 103, Denver, CO 80223",Denver,CO,80223,799,39.697327,-105.007103,1,1.0,440.0,Apartment,Active,2026-10-14T00:00:00.000Z,2
+476,"2066-S-Milwaukee-St,-Unit-2068,-Denver,-CO-80210","2066 S Milwaukee St, Unit 2068, Denver, CO 80210",Denver,CO,80210,999,39.678921,-104.951981,1,1.0,600.0,Apartment,Active,2026-10-14T00:00:00.000Z,2
+477,"4538-Clayton-St,-Apt-3,-Denver,-CO-80216","4538 Clayton St, Apt 3, Denver, CO 80216",Denver,CO,80216,1295,39.779655,-104.953789,1,1.0,550.0,Apartment,Active,2026-10-14T00:00:00.000Z,2
+478,"1479-W-Byers-Pl,-Denver,-CO-80223","1479 W Byers Pl, Denver, CO 80223",Denver,CO,80223,2200,39.712421,-105.008133,4,2.0,1474.0,Apartment,Active,2026-10-14T00:00:00.000Z,2
+479,"357-N-Grant-St,-Apt-3,-Denver,-CO-80203","357 N Grant St, Apt 3, Denver, CO 80203",Denver,CO,80203,799,39.722034,-104.984047,0,1.0,325.0,Apartment,Active,2026-10-14T00:00:00.000Z,2
+480,"2535-E-Asbury-Ave,-Apt-15,-Denver,-CO-80210","2535 E Asbury Ave, Apt 15, Denver, CO 80210",Denver,CO,80210,725,39.680614,-104.955498,0,1.0,250.0,Apartment,Active,2026-10-14T00:00:00.000Z,2
+481,"220-E-20th-Ave,-Apt-15,-Denver,-CO-80205","220 E 20th Ave, Apt 15, Denver, CO 80205",Denver,CO,80205,945,39.747318,-104.984459,0,1.0,442.0,Apartment,Active,2026-10-14T00:00:00.000Z,2
+482,"3080-W-Iliff-Ave,-Apt-203,-Denver,-CO-80219","3080 W Iliff Ave, Apt 203, Denver, CO 80219",Denver,CO,80219,995,39.674904,-105.026543,1,1.0,590.0,Apartment,Active,2026-10-14T00:00:00.000Z,2
+483,"3150-W-Floyd-Ave,-Unit-3150-5,-Denver,-CO-80110","3150 W Floyd Ave, Unit 3150-5, Denver, CO 80110",Denver,CO,80110,1395,39.657189,-105.028461,3,2.0,930.0,Apartment,Active,2026-10-14T00:00:00.000Z,2
+484,"27-S-Ogden-St,-Apt-6,-Denver,-CO-80209","27 S Ogden St, Apt 6, Denver, CO 80209",Denver,CO,80209,1325,39.715969,-104.976044,1,1.0,595.0,Apartment,Active,2026-10-14T00:00:00.000Z,2
+485,"1879-S-Lafayette-St,-Denver,-CO-80210","1879 S Lafayette St, Denver, CO 80210",Denver,CO,80210,2950,39.68243,-104.971388,3,2.0,1462.0,Single Family,Active,2026-10-14T00:00:00.000Z,2
+486,"4922-Lowell-Blvd,-Apt-5,-Denver,-CO-80221","4922 Lowell Blvd, Apt 5, Denver, CO 80221",Denver,CO,80221,2995,39.786101,-105.03405,2,3.0,1346.0,Condo,Active,2026-10-14T00:00:00.000Z,2
+487,"1075-N-Clarkson-St,-Apt-14,-Denver,-CO-80218","1075 N Clarkson St, Apt 14, Denver, CO 80218",Denver,CO,80218,859,39.733315,-104.977737,0,1.0,420.0,Apartment,Active,2026-10-14T00:00:00.000Z,2
+488,"2224-E-14th-Ave,-Apt-6,-Denver,-CO-80206","2224 E 14th Ave, Apt 6, Denver, CO 80206",Denver,CO,80206,1595,39.738144,-104.960243,1,1.0,800.0,Condo,Active,2026-10-14T00:00:00.000Z,2
+489,"1351-Xenia-St,-Apt-2C,-Denver,-CO-80220","1351 Xenia St, Apt 2C, Denver, CO 80220",Denver,CO,80220,999,39.738285,-104.886147,1,1.0,650.0,Apartment,Active,2026-10-14T00:00:00.000Z,2
+490,"490-S-Lincoln-St,-Denver,-CO-80209","490 S Lincoln St, Denver, CO 80209",Denver,CO,80209,1900,39.707698,-104.986056,2,1.0,935.0,Condo,Active,2026-10-14T00:00:00.000Z,2
+491,"3535-E-13th-Ave,-Denver,-CO-80206","3535 E 13th Ave, Denver, CO 80206",Denver,CO,80206,1950,39.736904,-104.945366,2,1.0,1025.0,Townhouse,Active,2026-10-15T00:00:00.000Z,1
+492,"1200-Josephine-St,-Unit-1,-Denver,-CO-80206","1200 Josephine St, Unit 1, Denver, CO 80206",Denver,CO,80206,2995,39.735321,-104.958359,4,2.0,1685.0,Condo,Active,2026-10-14T00:00:00.000Z,2
+493,"2700-N-Federal-Blvd,-Unit-303,-Denver,-CO-80211","2700 N Federal Blvd, Unit 303, Denver, CO 80211",Denver,CO,80211,1075,39.756275,-105.024849,1,1.0,650.0,Apartment,Active,2026-10-14T00:00:00.000Z,2
+494,"4720-E-8th-Ave,-Apt-2,-Denver,-CO-80220","4720 E 8th Ave, Apt 2, Denver, CO 80220",Denver,CO,80220,1015,39.729088,-104.932457,1,1.0,689.0,Single Family,Active,2026-10-14T00:00:00.000Z,2
+495,"1461-N-Logan-St,-Apt-C1,-Denver,-CO-80203","1461 N Logan St, Apt C1, Denver, CO 80203",Denver,CO,80203,1025,39.739662,-104.982727,1,1.0,560.0,Apartment,Active,2026-10-14T00:00:00.000Z,2
+496,"3660-N-Jasmine-St,-Denver,-CO-80207","3660 N Jasmine St, Denver, CO 80207",Denver,CO,80207,1800,39.768536,-104.918487,2,1.0,832.0,Single Family,Active,2026-10-14T00:00:00.000Z,2
+497,"601-W-11th-Ave,-Apt-418,-Denver,-CO-80204","601 W 11th Ave, Apt 418, Denver, CO 80204",Denver,CO,80204,1595,39.734172,-104.995518,2,2.0,873.0,Condo,Active,2026-10-14T00:00:00.000Z,2
+498,"2485-S-Gaylord-St,-Apt-10,-Denver,-CO-80210","2485 S Gaylord St, Apt 10, Denver, CO 80210",Denver,CO,80210,1495,39.671459,-104.962067,2,1.0,1000.0,Apartment,Active,2026-10-14T00:00:00.000Z,2
+499,"1526-Milwaukee-St,-Apt-6,-Denver,-CO-80206","1526 Milwaukee St, Apt 6, Denver, CO 80206",Denver,CO,80206,849,39.740788,-104.952126,1,1.0,700.0,Apartment,Active,2026-10-14T00:00:00.000Z,2
